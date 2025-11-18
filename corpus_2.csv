@@ -1,0 +1,523 @@
+exemple,relation
+"le vin de bordeaux",origine
+"le fromage de roquefort",origine
+"la porcelaine de limoges",origine
+"le champagne de reims",origine
+"la moutarde de dijon",origine
+"le jambon de bayonne",origine
+"la dentelle de calais",origine
+"le parfum de grasse",origine
+"l'huile de provence",origine
+"le cidre de normandie",origine
+"la faience de quimper",origine
+"le savon de marseille",origine
+"le cristal de baccarat",origine
+"la biere de belgique",origine
+"le chocolat de suisse",origine
+"le cafe de colombie",origine
+"le the de ceylan",origine
+"la soie de lyon",origine
+"le cuir de cordoue",origine
+"la laine d'ecosse",origine
+"le coton d'egypte",origine
+"le marbre de carrare",origine
+"l'ardoise de bretagne",origine
+"la tuile de provence",origine
+"le granit de bretagne",origine
+"l'eau de vichy",origine
+"le sel de guerande",origine
+"le miel de lavande",origine
+"l'olive de kalamata",origine
+"la vanille de madagascar",origine
+"la cannelle de ceylan",origine
+"le poivre de kampot",origine
+"le safran du cachemire",origine
+"le wasabi du japon",origine
+"le piment d'espelette",origine
+"la truffe du perigord",origine
+"le caviar de russie",origine
+"le saumon d'ecosse",origine
+"la morue de norvege",origine
+"l'anchois de collioure",origine
+"la sardine de bretagne",origine
+"l'huitre de belon",origine
+"la coquille saint-jacques",origine
+"la langoustine de dublin",origine
+"le homard du maine",origine
+"le crabe de dungeness",origine
+"la crevette de camargue",origine
+"l'escargot de bourgogne",origine
+"le foie gras du perigord",origine
+"le confit de canard",origine
+"la charcuterie d'auvergne",origine
+"le saucisson de lyon",origine
+"le boudin de morteau",origine
+"l'andouille de vire",origine
+"le pate de campagne",origine
+"la rillettes du mans",origine
+"le cassoulet de toulouse",origine
+"la bouillabaisse de marseille",origine
+"la ratatouille de nice",origine
+"la quiche de lorraine",origine
+"la tarte de tatin",origine
+"les macarons de nancy",origine
+"les calissons d'aix",origine
+"les berlingots de carpentras",origine
+"les dragees de verdun",origine
+"les pralines de montargis",origine
+"les nougats de montelimar",origine
+"les caramels d'isigny",origine
+"les bonbons de vichy",origine
+"la confiture de bonne maman",origine
+"le miel d'acacia",origine
+"la gelée de groseille",origine
+"la compote de pommes",origine
+"le sirop d'erable",origine
+"l'eau de rose",origine
+"l'essence de lavande",origine
+"l'huile d'olive",origine
+"le vinaigre de xeres",origine
+"la moutarde de meaux",origine
+"le ketchup de heinz",origine
+"la mayonnaise de benedicta",origine
+"la tête du poisson",holonymie
+"l'aile de l'oiseau",holonymie
+"la patte du chien",holonymie
+"la queue du chat",holonymie
+"l'oreille du lapin",holonymie
+"le bec du canard",holonymie
+"la corne du taureau",holonymie
+"la crinière du cheval",holonymie
+"la carapace de la tortue",holonymie
+"l'écaille du poisson",holonymie
+"la plume de l'oie",holonymie
+"la griffe du lion",holonymie
+"la trompe de l'éléphant",holonymie
+"la bosse du chameau",holonymie
+"les rayures du zèbre",holonymie
+"la poche du kangourou",holonymie
+"les épines du hérisson",holonymie
+"la toile de l'araignée",holonymie
+"les ailes du papillon",holonymie
+"la ruche des abeilles",holonymie
+"le nid de l'oiseau",holonymie
+"la tanière du renard",holonymie
+"la fourmilière des fourmis",holonymie
+"la termitière des termites",holonymie
+"le terrier du lapin",holonymie
+"la hutte du castor",holonymie
+"le tronc de l'arbre",holonymie
+"les branches de l'arbre",holonymie
+"les racines de l'arbre",holonymie
+"les feuilles de l'arbre",holonymie
+"les fruits de l'arbre",holonymie
+"les fleurs du rosier",holonymie
+"les pétales de la rose",holonymie
+"les épines de la rose",holonymie
+"la tige de la fleur",holonymie
+"les graines de la fleur",holonymie
+"l'écorce de l'arbre",holonymie
+"la sève de l'arbre",holonymie
+"les champignons de la forêt",holonymie
+"la mousse de la pierre",holonymie
+"le lichen du rocher",holonymie
+"les algues de la mer",holonymie
+"le corail de l'océan",holonymie
+"le sable de la plage",holonymie
+"les galets de la côte",holonymie
+"les vagues de l'océan",holonymie
+"l'écume de la mer",holonymie
+"la marée de l'océan",holonymie
+"les nuages du ciel",holonymie
+"les étoiles du ciel",holonymie
+"la lune du ciel",holonymie
+"le soleil du ciel",holonymie
+"les rayons du soleil",holonymie
+"l'ombre de l'arbre",holonymie
+"la rosée du matin",holonymie
+"la brume du lac",holonymie
+"le brouillard de la vallée",holonymie
+"la neige de la montagne",holonymie
+"la glace du lac",holonymie
+"les cristaux de glace",holonymie
+"les flocons de neige",holonymie
+"la grêle de l'orage",holonymie
+"la pluie du nuage",holonymie
+"l'orage du ciel",holonymie
+"l'éclair de l'orage",holonymie
+"le tonnerre de l'orage",holonymie
+"le vent de la tempête",holonymie
+"la bourrasque du vent",holonymie
+"la brise du soir",holonymie
+"l'air du matin",holonymie
+"l'atmosphère de la terre",holonymie
+"la couche d'ozone",holonymie
+"les continents de la terre",holonymie
+"les océans de la terre",holonymie
+"les montagnes de la terre",holonymie
+"les vallées de la terre",holonymie
+"les plaines de la terre",holonymie
+"les déserts de la terre",holonymie
+"les forêts de la terre",holonymie
+"les rivières de la terre",holonymie
+"les lacs de la terre",holonymie
+"les îles de l'océan",holonymie
+"les fjords de la norvège",holonymie
+"les deltas du fleuve",holonymie
+"les estuaires de la rivière",holonymie
+"les affluents du fleuve",holonymie
+"la source de la rivière",holonymie
+"l'embouchure du fleuve",holonymie
+"le clé de la porte",instrument
+"le marteau du charpentier",instrument
+"le tournevis de l'électricien",instrument
+"la scie du menuisier",instrument
+"le pinceau du peintre",instrument
+"la brosse du décorateur",instrument
+"le crayon de l'artiste",instrument
+"la plume de l'écrivain",instrument
+"le stylo de l'étudiant",instrument
+"la gomme du dessinateur",instrument
+"la règle de l'architecte",instrument
+"l'équerre du géomètre",instrument
+"le compas du navigateur",instrument
+"la boussole de l'explorateur",instrument
+"la loupe du détective",instrument
+"le microscope du biologiste",instrument
+"le télescope de l'astronome",instrument
+"la calculatrice du comptable",instrument
+"l'ordinateur du programmeur",instrument
+"la souris de l'ordinateur",instrument
+"le clavier de l'ordinateur",instrument
+"l'écran de l'ordinateur",instrument
+"l'imprimante de l'ordinateur",instrument
+"la caméra du photographe",instrument
+"l'objectif de la caméra",instrument
+"le trépied du photographe",instrument
+"le flash de l'appareil photo",instrument
+"le microphone du journaliste",instrument
+"l'enregistreur du reporter",instrument
+"la caméra du cinéaste",instrument
+"le projecteur du cinéma",instrument
+"l'écran du cinéma",instrument
+"le haut-parleur de la chaîne",instrument
+"l'amplificateur de la chaîne",instrument
+"la guitare du musicien",instrument
+"le piano du compositeur",instrument
+"le violon du virtuose",instrument
+"l'archet du violoniste",instrument
+"la baguette du chef d'orchestre",instrument
+"la partition du musicien",instrument
+"le métronome du pianiste",instrument
+"l'accordeur du piano",instrument
+"le pupitre de l'orchestre",instrument
+"la scène du théâtre",instrument
+"les décors du théâtre",instrument
+"les costumes des acteurs",instrument
+"le maquillage de l'acteur",instrument
+"les accessoires du spectacle",instrument
+"l'éclairage de la scène",instrument
+"la sonorisation du spectacle",instrument
+"les coulisses du théâtre",instrument
+"la loge de l'artiste",instrument
+"la billetterie du théâtre",instrument
+"l'entracte du spectacle",instrument
+"le programme du spectacle",instrument
+"l'affiche du spectacle",instrument
+"la publicité du produit",instrument
+"la promotion de la marque",instrument
+"l'étiquette du produit",instrument
+"l'emballage du produit",instrument
+"la notice du produit",instrument
+"la garantie du produit",instrument
+"le mode d'emploi",instrument
+"l'installation du logiciel",instrument
+"la configuration du système",instrument
+"la maintenance de l'appareil",instrument
+"la réparation de l'objet",instrument
+"l'entretien de la machine",instrument
+"le nettoyage de l'outil",instrument
+"la révision du moteur",instrument
+"le contrôle de qualité",instrument
+"l'inspection du produit",instrument
+"la vérification du système",instrument
+"le test de l'appareil",instrument
+"l'étalonnage de l'instrument",instrument
+"la calibration de l'outil",instrument
+"l'ajustement de la machine",instrument
+"le réglage de l'appareil",instrument
+"la programmation de l'automate",instrument
+"la commande de la machine",instrument
+"le pilotage de l'avion",instrument
+"la navigation du navire",instrument
+"la conduite de la voiture",instrument
+"la manoeuvre du véhicule",instrument
+"le freinage de la voiture",instrument
+"l'accélération du moteur",instrument
+"un brin d'herbe",quantification
+"une pincée de sel",quantification
+"une goutte d'eau",quantification
+"un grain de sable",quantification
+"une miette de pain",quantification
+"un flocon de neige",quantification
+"une étincelle de feu",quantification
+"un rayon de soleil",quantification
+"un souffle de vent",quantification
+"une bouffée d'air",quantification
+"une gorgée d'eau",quantification
+"une bouchée de pain",quantification
+"une cuillerée de sucre",quantification
+"une poignée de terre",quantification
+"une brassée de fleurs",quantification
+"un paquet de cigarettes",quantification
+"une boîte de conserve",quantification
+"une bouteille de vin",quantification
+"un verre d'eau",quantification
+"une tasse de café",quantification
+"un bol de soupe",quantification
+"une assiette de pâtes",quantification
+"un plat de légumes",quantification
+"une portion de viande",quantification
+"une tranche de pain",quantification
+"un morceau de gâteau",quantification
+"un bout de papier",quantification
+"un fragment de verre",quantification
+"un éclat de bois",quantification
+"une particule de poussière",quantification
+"un atome de carbone",quantification
+"une molécule d'eau",quantification
+"une cellule de l'organisme",quantification
+"un globule de sang",quantification
+"un cheveu de la tête",quantification
+"un cil de l'oeil",quantification
+"un ongle de la main",quantification
+"une dent de la bouche",quantification
+"un os du squelette",quantification
+"un muscle du corps",quantification
+"un nerf du système",quantification
+"une veine du corps",quantification
+"une artère du coeur",quantification
+"un battement de coeur",quantification
+"une respiration du poumon",quantification
+"un pas de danse",quantification
+"un geste de la main",quantification
+"un regard de l'oeil",quantification
+"un sourire du visage",quantification
+"une larme de joie",quantification
+"un rire de bonheur",quantification
+"un soupir de fatigue",quantification
+"un bâillement de sommeil",quantification
+"un éternuement du nez",quantification
+"une toux de la gorge",quantification
+"un hoquet de l'estomac",quantification
+"un ronflement du dormeur",quantification
+"un murmure de la voix",quantification
+"un chuchotement de l'oreille",quantification
+"un cri de détresse",quantification
+"un appel au secours",quantification
+"un signal d'alarme",quantification
+"un bruit de pas",quantification
+"un son de cloche",quantification
+"un écho de la voix",quantification
+"une résonance du son",quantification
+"une vibration de l'air",quantification
+"une onde de choc",quantification
+"une pulsation du coeur",quantification
+"un frémissement de peur",quantification
+"un tremblement de terre",quantification
+"une secousse tellurique",quantification
+"une oscillation du pendule",quantification
+"un mouvement de balancier",quantification
+"une rotation de la terre",quantification
+"une révolution autour du soleil",quantification
+"un cycle de la nature",quantification
+"une phase de la lune",quantification
+"une saison de l'année",quantification
+"un mois du calendrier",quantification
+"une semaine de travail",quantification
+"un jour de repos",quantification
+"une heure de cours",quantification
+"une minute d'attention",quantification
+"une seconde d'hésitation",quantification
+"un instant de bonheur",quantification
+"un moment de paix",quantification
+"une époque de l'histoire",quantification
+"une ère géologique",quantification
+"le tableau de van gogh",auteur
+"la symphonie de beethoven",auteur
+"le roman de balzac",auteur
+"la pièce de molière",auteur
+"le poème de baudelaire",auteur
+"la sculpture de rodin",auteur
+"l'oeuvre de picasso",auteur
+"la toile de monet",auteur
+"le dessin de leonardo",auteur
+"la fresque de michel-ange",auteur
+"l'architecture de gaudi",auteur
+"la cathédrale de notre-dame",auteur
+"la tour de eiffel",auteur
+"le château de versailles",auteur
+"le palais du louvre",auteur
+"la pyramide du louvre",auteur
+"l'opéra de paris",auteur
+"le théâtre de molière",auteur
+"l'académie française",auteur
+"l'université de sorbonne",auteur
+"l'école de beaux-arts",auteur
+"le conservatoire de musique",auteur
+"l'orchestre de paris",auteur
+"la philharmonie de berlin",auteur
+"l'opéra de vienne",auteur
+"la scala de milan",auteur
+"le bolchoï de moscou",auteur
+"le mariinsky de saint-pétersbourg",auteur
+"le covent garden de londres",auteur
+"le metropolitan de new york",auteur
+"la carnegie hall de new york",auteur
+"l'hollywood bowl de los angeles",auteur
+"le sydney opera house",auteur
+"la maison de la radio",auteur
+"france inter de radio france",auteur
+"la télévision française",auteur
+"le journal le monde",auteur
+"le magazine paris match",auteur
+"l'émission de télévision",auteur
+"le documentaire de arte",auteur
+"le film de godard",auteur
+"le long-métrage de truffaut",auteur
+"le court-métrage de tati",auteur
+"l'animation de disney",auteur
+"le dessin animé de pixar",auteur
+"la bande dessinée d'astérix",auteur
+"la bd de tintin",auteur
+"la série de lucky luke",auteur
+"l'album de spirou",auteur
+"la collection de gaston lagaffe",auteur
+"les aventures de blake et mortimer",auteur
+"l'univers de corto maltese",auteur
+"les chroniques de thorgal",auteur
+"la saga de lanfeust",auteur
+"l'épopée de valérian",auteur
+"la série de XIII",auteur
+"les enquêtes de largo winch",auteur
+"les histoires de boule et bill",auteur
+"les gags de gaston lagaffe",auteur
+"l'humour de gotlib",auteur
+"le trait de moebius",auteur
+"le style de bilal",auteur
+"l'art de françois schuiten",auteur
+"l'imagination de druillet",auteur
+"la créativité de loisel",auteur
+"l'originalité de philippe druillet",auteur
+"l'innovation de enki bilal",auteur
+"la poésie de françois bourgeon",auteur
+"la finesse de juillard",auteur
+"l'élégance de hermann",auteur
+"la précision de jean giraud",auteur
+"la virtuosité de philippe buchet",auteur
+"le talent de régis loisel",auteur
+"le génie de hayao miyazaki",auteur
+"l'art de studio ghibli",auteur
+"l'animation japonaise",auteur
+"le manga de akira toriyama",auteur
+"l'oeuvre de osamu tezuka",auteur
+"l'univers de naoki urasawa",auteur
+"le style de katsuhiro otomo",auteur
+"l'innovation de mamoru oshii",auteur
+"la vision de satoshi kon",auteur
+"l'art de makoto shinkai",auteur
+"la poésie de isao takahata",auteur
+"la sensibilité de kenji mizoguchi",auteur
+"le cinéma d'akira kurosawa",auteur
+"le théâtre de nô",auteur
+"la cérémonie du thé",auteur
+"l'art des jardins japonais",auteur
+"la galette de farine de blé",matiere
+"le pain de seigle",matiere
+"la pâte de blé dur",matiere
+"la farine de maïs",matiere
+"la semoule de blé",matiere
+"la polenta de maïs",matiere
+"le riz de camargue",matiere
+"l'avoine des chevaux",matiere
+"l'orge de brasserie",matiere
+"le quinoa des andes",matiere
+"le sarrasin de bretagne",matiere
+"le millet d'afrique",matiere
+"l'épeautre ancien",matiere
+"le kamut d'égypte",matiere
+"la châtaigne de l'ardèche",matiere
+"la noisette du périgord",matiere
+"la noix du périgord",matiere
+"l'amande de provence",matiere
+"la pistache de sicile",matiere
+"la cacahuète d'afrique",matiere
+"la graine de tournesol",matiere
+"la graine de courge",matiere
+"la graine de lin",matiere
+"la graine de chia",matiere
+"la graine de sésame",matiere
+"l'huile de tournesol",matiere
+"l'huile de colza",matiere
+"l'huile d'arachide",matiere
+"l'huile de palme",matiere
+"l'huile de coco",matiere
+"le beurre de lait",matiere
+"la margarine végétale",matiere
+"la crème de lait",matiere
+"le lait de vache",matiere
+"le lait de chèvre",matiere
+"le lait de brebis",matiere
+"le lait d'amande",matiere
+"le lait de soja",matiere
+"le lait d'avoine",matiere
+"le lait de riz",matiere
+"le lait de coco",matiere
+"le yaourt de lait",matiere
+"le fromage de lait",matiere
+"la mozzarella de bufflonne",matiere
+"le parmesan italien",matiere
+"le roquefort de brebis",matiere
+"le camembert de normandie",matiere
+"le brie de meaux",matiere
+"le chèvre de loire",matiere
+"la feta de brebis",matiere
+"l'emmental de savoie",matiere
+"le gruyère suisse",matiere
+"le comté de franche-comté",matiere
+"la viande de boeuf",matiere
+"la viande de porc",matiere
+"la viande d'agneau",matiere
+"la viande de veau",matiere
+"la volaille de ferme",matiere
+"le poulet de bresse",matiere
+"le canard de barbarie",matiere
+"l'oie de toulouse",matiere
+"la dinde de thanksgiving",matiere
+"le lapin de garenne",matiere
+"le gibier de chasse",matiere
+"le cerf des bois",matiere
+"le sanglier de forêt",matiere
+"le poisson de mer",matiere
+"le saumon de norvège",matiere
+"la truite de rivière",matiere
+"la sole de manche",matiere
+"le turbot de bretagne",matiere
+"la daurade royale",matiere
+"le bar de ligne",matiere
+"le thon rouge",matiere
+"la sardine de bretagne",matiere
+"l'anchois de méditerranée",matiere
+"la morue de norvège",matiere
+"le cabillaud de mer du nord",matiere
+"le lieu jaune",matiere
+"le merlan de bretagne",matiere
+"la lotte de mer",matiere
+"la raie de manche",matiere
+"le rouget de méditerranée",matiere
+"la dorade grise",matiere
+"le maquereau de ligne",matiere
+"le hareng de mer du nord",matiere
+"l'anguille de loire",matiere
+"la carpe d'étang",matiere
+"le brochet de rivière",matiere

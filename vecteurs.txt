@@ -1,0 +1,17 @@
+les generiques (hyperonymes)
+
+si une relation semantique est presente pour le mot (marqueur de type de relation) r_isa, r_matter,...
+
+informations semantiques (relation 36) INFO-SEM-SUBST
+
+
+mettre les id des noeuds dans le vecteurs plutot que des chaines de caracteres
+
+vecteurs lexicalises
+
+on calcul le vecteur du mot A et le vecteur du mot B (v_A,v_B)
+
+
+faire un arbre binaire avec les vecteurs les plus proches (au sens du produit scalaire)
+
+1 arbre binaire par relation !

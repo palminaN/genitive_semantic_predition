@@ -1,0 +1,20 @@
+relations a considerer (non exhausitif) :
+
+
+
+
+origine (la saucisse de Toulouse)
+lien social (le soumis de mynthos)
+holonymie (la queue du chat)
+instrument du processus (la cle de la porte)
+quantification (un brin d'herbe)
+matiere (une cuillere de bois)
+depiction (un tableau de mario)
+lieu (le desert du sahara)
+agent du processus (le travail de l'ouvrier)
+auteur (le tableau de van gogh) -> cree par van gogh
+topic (un restaurant de sushi)
+consequence (les degats de la tempete)
+possession (le jet prive de Anne Hidalgo)
+caracterisation (la fragilite du vase)
+etc...

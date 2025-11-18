@@ -1,0 +1,169 @@
+Le chien du duc
+Le repas de l’archevêque
+La bibliothèque de l’université
+Le manteau du roi
+La couronne de la reine
+Le château du comte
+La bicyclette de l’étudiant
+La plume de l’écrivain
+Le tableau du peintre
+La montre de l’horloger
+La robe de la duchesse
+Le cheval du fermier
+Le manuscrit du moine
+La voiture de l’ingénieur
+Le jardin de la baronne
+Le téléphone du ministre
+Le sac de la journaliste
+Le piano du musicien
+La chambre de l’hôtelier
+Le coffre du pirate
+La lanterne du berger
+Le journal du professeur
+Le roman de l’auteur
+La clé du notaire
+Le chapeau du magistrat
+Le stylo de la secrétaire
+Le fauteuil du directeur
+Le collier de la princesse
+Le livre du bibliothécaire
+La valise du voyageur
+Le tapis de l’émir
+La lampe du sculpteur
+Le costume du comédien
+Le chariot du marchand
+La plume de la poétesse
+La guitare du musicien
+Le verre du sommelier
+Le bouquet de la fleuriste
+La chambre de la servante
+Le sabre du samouraï
+Le repas de l’aristocrate
+La bicyclette de la fillette
+Le manteau du soldat
+La montre du capitaine
+Le tableau de la galeriste
+La robe du mannequin
+Le chien de la duchesse
+Le piano de la pianiste
+Le carnet du journaliste
+La clé du gardien
+Le coffre de l’explorateur
+Le chapeau de l’officier
+La valise du diplomate
+La lanterne de l’ermite
+Le livre de la comtesse
+Le stylo du secrétaire
+La chambre du maître
+La couronne du prince
+Le cheval de l’écuyer
+Le collier de la baronne
+Le manuscrit du moine
+Le costume du chevalier
+La guitare du troubadour
+Le verre du serveur
+La lampe de l’horloger
+Le bouquet de la mariée
+La bicyclette de l’adolescent
+Le repas du bourgeois
+Le manteau de l’avocat
+Le tableau du conservateur
+La robe de la comédienne
+Le chien du baron
+Le piano du professeur
+Le carnet de l’étudiant
+La clé du voleur
+Le coffre du roi
+Le chapeau de la marquise
+La valise du photographe
+La lanterne du guide
+Le livre du poète
+Le stylo de l’artiste
+La chambre du roi
+La couronne de l’impératrice
+Le cheval du duc
+Le collier de la princesse
+Le manuscrit de l’archiviste
+Le costume du directeur
+La guitare du chanteur
+Le verre du barman
+La lampe du professeur
+Le bouquet de la reine
+La bicyclette du facteur
+Le repas du chef
+Le manteau du juge
+Le tableau de l’illustratrice
+La robe de la duchesse
+Le chien du comte
+Le piano de l’élève
+La chambre de Laura
+Le sac à main de Paul
+Le manteau de Chloé
+La valise de Marc
+Le lit de Claire
+La guitare de Nicolas
+La montre de Emma
+Le livre de Maxime
+La table de Sarah
+Le fauteuil de Thomas
+Le sac de Alice
+Le chapeau de Julien
+Le téléphone de Paul
+Le chien de Laura
+La voiture de Nicolas
+Le collier de Claire
+Le canapé de Emma
+La guitare de Max
+Le jardin de Sarah
+Le sac à dos de Thomas
+Le manteau de Adrien
+La chambre de Chloé
+Le vélo de Paul
+La montre de Laura
+Le livre de Nicolas
+La voiture de Claire
+Le sac de Max
+Le chien de Emma
+Le piano de Thomas
+Le canapé de Julien
+La chambre de Sarah
+Le sac à main de Alice
+Le manteau de Marc
+La valise de Claire
+Le lit de Maxime
+La guitare de Thomas
+La montre de Nicolas
+Le livre de Emma
+La table de Paul
+Le fauteuil de Chloé
+Le sac de Laura
+Le chapeau de Julien
+Le téléphone de Sarah
+Le chien de Thomas
+La voiture de Emma
+Le collier de Max
+Le canapé de Claire
+La guitare de Adrien
+Le jardin de Nicolas
+Le sac à dos de Paul
+Le manteau de Chloé
+La chambre de Alice
+Le vélo de Maxime
+La montre de Claire
+Le livre de Julien
+La voiture de Sarah
+Le sac de Thomas
+Le chien de Laura
+Le piano de Max
+Le canapé de Alice
+La chambre de Nicolas
+Le sac à main de Emma
+Le manteau de Claire
+La valise de Julien
+Le lit de Sarah
+La guitare de Maxime
+La montre de Paul
+Le livre de Alice
+La table de Marc
+Le fauteuil de Claire
+Le sac de Julien

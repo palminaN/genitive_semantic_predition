@@ -1,0 +1,98 @@
+Le père de Paul.
+La mère de Sophie.
+Le frère de Julie.
+La sœur de Martin.
+Le fils de Clara.
+La fille de Thomas.
+L’oncle de David.
+La tante de Louise.
+Le cousin de Maxime.
+La cousine d’Élise.
+Le grand-père de Hugo.
+La grand-mère d’Emma.
+Le beau-père de Lucas.
+La belle-mère de Chloé.
+Le beau-frère de Nina.
+La belle-sœur d’Arthur.
+Le gendre de Mireille.
+La bru de Gérard.
+Le parrain de Camille.
+La marraine de Léo.
+Le compagnon de Sarah.
+La compagne de Julien.
+Le mari d’Amandine.
+La femme de Pierre.
+Le fiancé de Manon.
+La fiancée d’Alexandre.
+Le partenaire de Jade.
+La conjointe de Rémi.
+Le conjoint d’Aurore.
+Le tuteur de Mathis.
+La tutrice d’Inès.
+Le mentor de Raphaël.
+La protégée de Damien.
+Le protégé de Laura.
+Le chef de Lionel.
+La cheffe de Marion.
+Le supérieur de Nadia.
+La supérieure d’Olivier.
+Le patron de Karine.
+La patronne de Benoît.
+Le collègue de Victor.
+La collègue d’Anna.
+Le camarade de Samuel.
+La camarade d’Émile.
+L’ami de Zoé.
+L’amie de Quentin.
+Le compagnon de route d’Estelle.
+La partenaire d’étude de Noah.
+Le binôme de Léa.
+La binôme de Simon.
+Le coéquipier de Maël.
+La coéquipière d’Axelle.
+Le voisin de Baptiste.
+La voisine de Clara.
+Le colocataire de Robin.
+La colocataire de Salomé.
+Le mentor académique de Florent.
+La marraine académique d’Aline.
+Le protégé académique d’Etienne.
+La protégée académique d’Hector.
+Le maître d’apprentissage d’Adèle.
+La maîtresse d’apprentissage de Kévin.
+Le guide de Valentin.
+La guide d’Irène.
+Le responsable de Jeanne.
+La responsable de Thierry.
+Le tuteur légal de Mélanie.
+La tutrice légale d’Arthur.
+Le partenaire professionnel de Sonia.
+La partenaire professionnelle de Marc.
+Le collaborateur de Didier.
+La collaboratrice de Brice.
+Le superviseur de Lison.
+La superviseuse de Patrick.
+Le référent de Lucas.
+La référente de Maud.
+Le commandant de Romain.
+La commandante de Sacha.
+Le capitaine de Gaël.
+La capitaine d’Élina.
+Le maître de cérémonie d’Alban.
+La maîtresse de cérémonie d’Océane.
+Le protecteur de Mireille.
+La protectrice de Damien.
+Le compagnon artistique de Carla.
+La partenaire artistique de Hugo.
+Le binôme scientifique d’Élise.
+La binôme scientifique de Louis.
+Le camarade de promotion de Selim.
+La camarade de promotion d’Agnès.
+Le collègue de laboratoire de Yohan.
+La collègue de laboratoire d’Astrid.
+Le cofondateur de Lina.
+La cofondatrice de Sami.
+Le père adoptif de Nora.
+La mère adoptive de Yannis.
+Le fils adoptif de Coralie.
+La fille adoptive de Mehdi.

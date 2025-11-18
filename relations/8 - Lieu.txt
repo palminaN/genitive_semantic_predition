@@ -1,0 +1,190 @@
+Le toit de la maison
+La salle de la mairie
+Le parc du château
+La porte de l’école
+Le jardin de l’hôtel
+La bibliothèque de l’université
+Le musée de la ville
+Le bureau de l’administration
+La cuisine de l’appartement
+La chambre de l’hôtel
+La terrasse de la villa
+Le balcon de l’immeuble
+Le stade de la ville
+La galerie du musée
+Le marché de la ville
+Le quai du port
+Le pont de la rivière
+La plage de la baie
+Le chemin de la forêt
+La route du village
+Le centre de la ville
+La place du marché
+Le jardin du palais
+Le hall de l’immeuble
+La salle du théâtre
+La chapelle du château
+Le cimetière de la commune
+Le hangar du port
+Le pavillon de l’université
+La cour de l’école
+Le hall de la gare
+Le parc du quartier
+La piscine de l’hôtel
+Le musée du quartier
+La bibliothèque du lycée
+Le laboratoire de l’université
+La salle de sport du campus
+Le théâtre du centre-ville
+Le bureau du directeur
+La cuisine de la cantine
+La salle du conseil
+Le jardin botanique de la ville
+Le toit du pavillon
+Le pont de la ville
+La promenade de la plage
+Le parc zoologique de la ville
+La salle de réunion de l’entreprise
+Le couloir de l’hôpital
+La salle d’attente de la gare
+Le hall de l’hôtel
+La bibliothèque du centre culturel
+Le jardin du monastère
+Le salon de l’hôtel
+La terrasse du café
+Le hall du cinéma
+La salle de classe de l’école
+La cour de l’université
+La place de l’église
+Le port de la ville
+La promenade du bord de mer
+Le pont du canal
+La gare de la ville
+La rue de la ville
+La salle de concert du théâtre
+Le parc du musée
+Le jardin du château
+La terrasse de la maison
+Le toit du bâtiment
+La cour du collège
+Le marché du village
+La salle du musée
+La bibliothèque de l’école
+Le port du village
+La salle de conférence du centre culturel
+La piscine du complexe sportif
+Le jardin public de la ville
+Le parc d’attractions de la ville
+La place du centre-ville
+Le parc du quartier historique
+Le toit de l’immeuble
+Le couloir de l’école
+La salle de sport de l’école
+Le marché couvert de la ville
+La salle de réception de l’hôtel
+La salle du musée d’art
+Le quai de la gare
+Le parc du centre-ville
+La promenade du parc
+La salle de spectacles du théâtre
+La bibliothèque municipale de la ville
+La cour de la mairie
+Le jardin du lycée
+La galerie d’art du musée
+La salle de réunion de l’entreprise
+La cuisine du restaurant
+Le hall de l’immeuble administratif
+Le toit de l’école
+Le jardin de l’hôpital
+La terrasse du restaurant
+Le pavillon du musée
+La salle de spectacle du centre culturel
+Le port du centre-ville
+Le marché de la gare
+La cour de l’hôtel
+La piscine municipale de la ville
+La salle du théâtre
+Le hall du musée
+La bibliothèque du quartier
+La salle de sport du lycée
+Le parc du complexe sportif
+La promenade de la ville
+Le pont de l’autoroute
+Le jardin de la mairie
+La terrasse du centre culturel
+Le hall de l’université
+La cour du château
+Le parc du campus
+La salle de réunion de l’école
+La bibliothèque universitaire
+La piscine de l’hôtel de ville
+Le marché du centre-ville
+La salle de spectacle du théâtre municipal
+Le pont du centre-ville
+La galerie commerciale du centre-ville
+Le jardin du parc municipal
+La terrasse du café du centre-ville
+La cour du collège
+La bibliothèque municipale
+Le parc zoologique du quartier
+Le quai du port commercial
+La salle de réunion de la mairie
+Le marché couvert du quartier
+La piscine municipale
+La salle de concert du centre culturel
+Le jardin du complexe sportif
+La salle d’exposition du musée
+Le hall du théâtre
+Le parc du quartier résidentiel
+La salle de sport municipale
+La cour du musée
+Le toit de l’immeuble administratif
+La bibliothèque de la mairie
+La terrasse du parc
+La promenade du centre-ville
+Le pont de la rivière
+La salle de conférence de l’université
+La galerie du centre commercial
+La salle de spectacle municipale
+Le parc du centre commercial
+La cour du centre culturel
+Le jardin botanique municipal
+La salle de sport du centre sportif
+Le hall du collège
+Le port du quartier résidentiel
+La bibliothèque du centre culturel
+Le parc de la ville haute
+La terrasse du musée
+Le jardin du centre-ville
+Le marché municipal
+La piscine du centre sportif
+La salle d’exposition municipale
+Le hall de la mairie
+Le théâtre du centre-ville
+Le pont du parc
+La cour de l’immeuble résidentiel
+La bibliothèque du quartier historique
+Le jardin public municipal
+La terrasse du hall
+Le parc du musée d’art
+La salle de concert municipale
+Le hall du centre commercial
+La galerie du musée municipal
+La piscine du centre-ville
+La salle de réunion municipale
+Le jardin botanique du centre-ville
+Le marché du centre commercial
+La cour du centre-ville
+La bibliothèque du musée
+La terrasse municipale
+Le parc du quartier administratif
+Le pont du quartier historique
+La salle de sport du centre-ville
+Le hall du parc municipal
+Le jardin du complexe culturel
+La bibliothèque du centre sportif
+La salle de concert du théâtre municipal
+La cour du centre commercial
+Le parc municipal du quartier
+La terrasse du centre commercial
+Le marché du centre culturel
