@@ -1,21 +1,16 @@
-
-Prediction de relations semantiques
-
-L'objectif de ce projet est d'entrainer un modele a predire la relation semantique d'une phrase en forme genitive.
-
-Une phrase genitive est de la forme suivante : A [de/des/de la/du/d'un/...] B
-
-Nous nous restreignerons aux 15 relations semantiques decrites ci-dessous :
+# Projets inférences ?N de ?N
+### MELGET Alban et PIERRET Matthieu
 
 
+# 1 - Arborescence
+
+Il faut un dosser "./relations" qui contient le dataset d'apprentissage sous la forme de X (nous, 16) fichiers txt pour les relations. Nous avos laissé notre dataset, mais vous pouvez le changer à guise.
+
+# 2 - Dépendances
+
+Il faut installer les dépendances : certains imports ne sont pas dans le package de base de Python, notemment diskcache et sklearn (pip install ?name).
 
 
-Afin d'accomplir cet objectif, nous nous  appuierons sur le reseau lexical JeuxDeMots developpe par le LIRMM (Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier).
+# 3 - inférences
 
-Acquisition de donnees d'entrainement :
-
-Pour entrainer nos modele nous utiliserons des donnees etiquetees generees par Intelligence Artificielle.
-
-Le vecteurs des mots seront construits a partir des donnees disponibles via l'API de JeuxDeMots.
-
-Pour ce projet nous nous donnons egalement pour objectif d'obtenir de meilleurs resultats que dans l'article de recherche disponible a l'adresse suivante : 
+Il faut executer toutes les cellules du code dans l'ordre. Pour l'inférence, vous pouvez modifier la variable n_de_n dans la toute derniere cellule du notebook et l'executer.
