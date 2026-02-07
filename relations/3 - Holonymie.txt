@@ -1,0 +1,500 @@
+la roue de la voiture  
+le toit de la maison  
+la poignée de la porte  
+le manche du couteau  
+la page du livre  
+la clé du piano  
+la branche de l’arbre  
+la plume de l’oiseau  
+la feuille de l’arbre  
+la pédale du vélo  
+la jambe de la table  
+le moteur de la voiture  
+la fenêtre de la maison  
+la marche de l’escalier  
+la dent du peigne  
+le bouton de la chemise  
+la vitre de la fenêtre  
+la roue du chariot  
+la poignée du tiroir  
+la corde de la guitare  
+la lame du couteau  
+la tige de la fleur  
+le bec de la théière  
+la couronne de l’arbre  
+la branche du rosier  
+la couverture du livre  
+la coque du bateau  
+la voile du navire  
+le pont du navire  
+la queue du chat  
+la patte du chien  
+la main de l’homme  
+le doigt de la main  
+la roue du camion  
+la poignée du sac  
+la sangle du sac  
+la fermeture de la veste  
+la poche du pantalon  
+le capot de la voiture  
+le pare-brise du bus  
+le mât du voilier  
+la lame de la scie  
+la dent du lion  
+la corne du taureau  
+la feuille du carnet  
+la page du cahier  
+la clé du clavier  
+le ressort de la montre  
+la tige du parapluie  
+la roue du char
+le carburateur du moteur
+le piston du cylindre
+la bougie de la voiture
+le rétroviseur du véhicule
+l'essieu du wagon
+la jante de la roue
+le rayon de la bicyclette
+le guidon de la moto
+la selle du cyclomoteur
+le pot d'échappement du camion
+l'aile de l'avion
+le fuselage de l'appareil
+l'hélice de l'hélicoptère
+le train d'atterrissage du jet
+la dérive de l'avion
+le hublot de la cabine
+la cabine du pilote
+le réacteur de la fusée
+le périscope du sous-marin
+l'ancre du cargo
+la quille du voilier
+le gouvernail du bateau
+le bastingage du navire
+la cheminée du paquebot
+la soute du navire
+le wagon du train
+la locomotive du convoi
+le rail de la voie
+la portière du taxi
+la batterie du smartphone
+la charpente du toit
+la tuile de la toiture
+la gouttière de la façade
+la cheminée de la villa
+le linteau de la porte
+le chambranle de la fenêtre
+le volet de la persienne
+le gond de la porte
+la serrure du portail
+le pêne de la serrure
+la rampe de l'escalier
+le palier de l'étage
+la plinthe du mur
+le plafond de la chambre
+la cloison du bureau
+la poutre du salon
+le carrelage de la cuisine
+la dalle de la terrasse
+la fondation de l'immeuble
+le pilier du temple
+la voûte de la nef
+le clocher de l'église
+le minaret de la mosquée
+le dôme de la basilique
+le balcon de l'appartement
+le hall de la résidence
+la cave de la maison
+le grenier du pavillon
+la lucarne des combles
+le châssis de la verrière
+le tiroir du bureau
+le dossier de la chaise
+l'accoudoir du fauteuil
+le sommier du lit
+le matelas du couchage
+le pied du buffet
+l'étagère de l'armoire
+la charnière du placard
+le plateau de la table
+le montant du lit
+l'abat-jour de la lampe
+le socle de la statue
+la douille de l'ampoule
+le fil de la radio
+le cadran de la pendule
+l'aiguille de l'horloge
+la vitre du buffet
+le fond du tiroir
+la poignée du four
+la grille du barbecue
+le tambour du lave-linge
+la porte du frigo
+le bac du congélateur
+le tuyau de l'aspirateur
+la brosse du balai
+l'ongle du doigt
+la phalange de l'index
+le poignet de la main
+le coude du bras
+l'épaule du torse
+la cheville du pied
+le genou de la jambe
+la rotule de l'articulation
+la hanche du bassin
+la vertèbre de la colonne
+la côte de la cage thoracique
+le lobe de l'oreille
+la paupière de l'œil
+la narine du nez
+la lèvre de la bouche
+la gencive de la mâchoire
+l'émail de la dent
+la pupille de l'œil
+le sourcil du visage
+le cuir chevelu du crâne
+l'écaille du serpent
+la crinière du lion
+le sabot du cheval
+le naseau du taureau
+la trompe de l'éléphant
+la défense du morse
+la nageoire du requin
+l'ouïe du poisson
+la carapace de la crevette
+l'antenne de la fourmi
+l'aile du papillon
+le dard de l'abeille
+la serre de l'aigle
+le duvet du poussin
+la crête du coq
+l'écorce du tronc
+la racine de la plante
+le bourgeon de la branche
+le pétale de la fleur
+le sépale de la rose
+l'étamine du lys
+le pistil de la tulipe
+le noyau de la cerise
+le pépin de la pomme
+la peau de la banane
+le quartier de l'orange
+la coque de la noix
+l'épine du cactus
+la nervure de la feuille
+le pédoncule du fruit
+la sève de l'arbre
+le bois du tronc
+la fronde de la fougère
+le cône du sapin
+l'aiguille du pin
+l'écran du moniteur
+la touche du clavier
+le capteur de la souris
+le processeur de la carte mère
+la lentille de l'appareil photo
+le déclencheur du boîtier
+le flash du téléphone
+l'antenne du routeur
+le haut-parleur de l'enceinte
+la membrane du micro
+le curseur de la fermeture
+la boucle de la ceinture
+l'œillet de la chaussure
+le lacet de la botte
+la semelle de la basket
+la talon de la chaussure
+la visière de la casquette
+la branche des lunettes
+le verre de la loupe
+le réservoir du stylo
+la mine du crayon
+la gomme du critérium
+l'agrafe de la liasse
+le trombone du dossier
+la reliure de l'album
+la roue de secours de la voiture
+la poignée de la porte de la cuisine
+le manche du couteau de boucher
+la page de garde du livre
+la touche de piano du conservatoire
+la branche de l'arbre du jardin
+la plume de l'aile de l'oiseau
+la pédale de frein du vélo
+la jambe de la table du salon
+le moteur de la voiture de sport
+la fenêtre de la chambre d'amis
+la marche de l'escalier de service
+le bouton de la manche de la chemise
+la vitre de la fenêtre du bureau
+la poignée du tiroir de la commode
+la corde de la guitare de mon frère
+la lame de la scie de l'ébéniste
+la tige de la fleur de lotus
+le bec de la théière de porcelaine
+la couverture de l'album de photos
+la coque du bateau de pêche
+le mât du voilier de plaisance
+la queue du chat de la voisine
+la patte du chien de garde
+le doigt de la main de l'enfant
+la poche du pantalon de randonnée
+le capot de la voiture de collection
+le pare-brise du bus de transport
+la lame de la scie circulaire
+la corne du taureau de combat
+la page du cahier de texte
+la clé du clavier de l'ordinateur
+le ressort de la montre de luxe
+la tige du parapluie de golf
+la roue du char de carnaval
+le chapitre du manuel
+le paragraphe de l'article
+le vers du poème
+la strophe de la chanson
+la scène de l'acte
+le dialogue du scénario
+la note de la mélodie
+l'accord de la partition
+le pixel de l'image
+le bit de l'octet
+le soldat de la troupe
+le musicien de l'orchestre
+le membre de l'équipe
+l'atome de la molécule
+le noyau de l'atome
+l'électron de la couche
+l'étoile de la galaxie
+la planète du système
+le maillon de la chaîne
+la maille du tricot
+le pavé de la rue
+le trottoir de l'avenue
+la borne de la route
+le panneau du carrefour
+le feu du croisement
+le rail du tramway
+le pylône du pont
+le tablier du viaduc
+la rambarde de la passerelle
+le quai de la gare
+le guichet de la banque
+le rayon du supermarché
+la cabine de l'ascenseur
+le bouton de l'interrupteur
+la prise du secteur
+le fusible du tableau
+le raccord du tuyau
+le joint de la robinetterie
+la bonde de l'évier
+le siphon du lavabo
+le réservoir de la chasse
+la lunette des toilettes
+le pommeau de la douche
+le flexible du jet
+le mélangeur du bain
+la buse du jacuzzi
+la margelle de la piscine
+le skimmer du bassin
+l'échelle de la cuve
+la vanne du gaz
+le mors du vilebrequin
+la mèche de la perceuse
+le mandrin de l'outil
+le fer du rabot
+la semelle du rabot
+la dent de la herse
+le soc de la charrue
+le guidon du motoculteur
+la lame de la tondeuse
+le bac du ramasse-herbe
+le manche de la pioche
+la panne du marteau
+le tranchant de la hache
+le plat du tournevis
+le manche de la lime
+le grain de la meule
+la courroie de la ponceuse
+le plateau de la balance
+l'aiguille du manomètre
+le curseur du pied à coulisse
+le col du manteau
+le revers de la veste
+l'épaulette du blazer
+la doublure du pardessus
+le poignet de la chemise
+le pan du veston
+la braguette du jean
+le passant de la ceinture
+l'ourlet de la jupe
+la traîne de la robe
+le talon de l'escarpin
+la cambrure de la chaussure
+la languette de la basket
+le pompon du bonnet
+la calotte du chapeau
+le bord du canotier
+le nœud de la cravate
+le fermoir du collier
+le chaton de la bague
+le verre des lunettes
+la racine du cheveu
+le bulbe du poil
+la paroi de l'estomac
+le lobe du foie
+la valvule du cœur
+le ventricule de l'organe
+l'oreillette du myocarde
+l'alvéole du poumon
+le nerf de la dent
+la pulpe du doigt
+le blanc de l'œil
+l'iris de la rétine
+le tympan de l'oreille
+le conduit du méat
+la cloison du nez
+la pomme de la gorge
+le tendon du muscle
+la moelle de l'os
+le cartilage du genou
+la rotule de la jambe
+le capuchon du feutre
+la bille du stylo
+l'agrafe de l'agrafeuse
+la lame du cutter
+la graduation de la règle
+le ressort du classeur
+l'œillet de la pochette
+le rabat de l'enveloppe
+le timbre de la lettre
+la marge de la feuille
+le chevalet du violon
+l'âme de la contrebasse
+la touche de l'alto
+la cheville du violoncelle
+le pavillon de la trompette
+le piston du cornet
+l'anche de la clarinette
+le bocal du saxophone
+la peau du tambour
+la cymbale de la batterie
+le marteau du piano
+l'étouffoir du clavier
+la pédale de la harpe
+le soufflet de l'accordéon
+le sommier de l'orgue
+le wagon-lit du train
+la motrice du métro
+le pantographe du tramway
+la nacelle de la montgolfière
+le brûleur du ballon
+le filet de l'aérostat
+le guidon de la trottinette
+le plateau du skateboard
+le truck du skate
+les roulements du patin
+le couvercle de la marmite
+l'anse de la casserole
+le fond de la poêle
+le filtre de la cafetière
+le piston du thermos
+le goulot de la bouteille
+le bouchon du flacon
+le pied du verre
+le buvant de la coupe
+le rebord de l'assiette
+la gâchette du fusil
+le canon de l'arme
+la crosse du pistolet
+le chargeur du pistolet
+le percuteur de la carabine
+la pointe de la flèche
+l'empennage du trait
+la corde de l'arc
+la poignée de l'épée
+la garde du sabre
+le cratère de la lune
+l'anneau de Saturne
+la queue de la comète
+le sommet de la montagne
+le versant de la colline
+le lit de la rivière
+l'embouchure du fleuve
+la rive de l'étang
+la crête de la vague
+le fond de l'abîme
+le bouton de l'ascenseur
+l'écran du distributeur
+le clavier de l'automate
+la fente du parcmètre
+le miroir du télescope
+l'oculaire de la lunette
+le barillet du revolver
+le cran de sûreté
+la pile de la télécommande
+le compartiment du sac
+la doublure du gant
+la mèche de la bougie
+la mèche du briquet
+la pierre du briquet
+le cadran de la boussole
+l'aiguille de l'aimant
+le couvercle de la boîte
+la paroi du coffre
+la poignée de la valise
+la roulette du bagage
+le cadenas du casier
+la branche du compas
+la pointe du compas
+la lame du rasoir
+la tête du rasoir
+le réservoir de la lampe
+la mèche de la lampe à huile
+le verre du lampion
+l'armature de la tente
+le piquet du campement
+le hauban du chapiteau
+la toile de la yourte
+la structure du pavillon
+l'ossature du bâtiment
+le squelette du navire
+la coque de la noix de coco
+le noyau de la cellule
+la membrane de la paroi
+le brin de l'ADN
+le chromosome du noyau
+le neurone du cerveau
+le lobe du poumon
+la cloison du cœur
+l'artère de l'organe
+le vaisseau de la rétine
+la dent de la scie sauteuse
+le plateau de la ponceuse vibrante
+le carter du moteur thermique
+la courroie de la distribution
+le pneu de la roue avant
+la valve de la chambre à air
+la jante de la roue arrière
+le rayon de la roue de vélo
+le moyeu de l'axe central
+la fourche du cadre de vélo
+la poignée du frein à disque
+l'étrier du frein de secours
+la plaquette de la garniture
+le disque de l'embrayage
+le volant de la direction
+le levier de la boîte de vitesses
+le pommeau du levier de vitesse
+le soufflet du levier de vitesse
+le tableau de bord de la voiture
+l'aiguille du compteur de vitesse
+le voyant de la jauge d'essence
+le bouchon du réservoir d'huile
+la jauge du niveau d'eau
+le ventilateur du radiateur
+la durite du circuit de refroidissement
+le joint du carter d'huile
+la vis de la culasse
+la soupape de l'admission
+l'arbre de la transmission
+le cardan de la roue motrice

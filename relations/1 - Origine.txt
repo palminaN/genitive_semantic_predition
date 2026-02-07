@@ -1,0 +1,490 @@
+Le vin de Bordeaux
+Le fromage de chèvre
+L’huile d’olive de Provence
+Le sable du Sahara
+Le café du Brésil
+Le thé de Ceylan
+La soie de Chine
+Les épices d’Inde
+Le miel de montagne
+L’eau de source
+La laine de mouton
+Le marbre d’Italie
+Le riz du Japon
+Le cuir de vache
+Le coton d’Égypte
+La pierre du Jura
+Le bois de chêne
+Le parfum de Grasse
+Le tabac de Virginie
+Le sucre de canne
+Le chocolat de Côte d’Ivoire
+Le sel de mer
+Le vin du Rhin
+Le pain de seigle
+Le miel de lavande
+La farine de blé
+Le cuir de crocodile
+Le métal du minerai
+La poussière d’étoiles
+L’eau du puits
+Le vent du nord
+Le feu du volcan
+La cendre du bois
+La sève de pin
+Le jus d’orange
+Le pétrole du désert
+Le vin de Bourgogne
+Le fromage du Jura
+Le beurre de Bretagne
+La bière d’abbaye
+Le champagne de Reims
+Le miel du maquis
+La farine de maïs
+La glace de montagne
+La confiture de fraise
+Le jus de raisin
+Le vin de Savoie
+Le fromage de Normandie
+Le miel des Alpes
+Le café de Colombie
+Le riz de Camargue
+La pierre de Bourgogne
+Le bois d’ébène
+La laine de cachemire
+Le cuir d’autruche
+Le sucre des Antilles
+Le sel de Guérande
+Le marbre de Carrare
+Le coton du Mali
+Le vin du Beaujolais
+Le miel de romarin
+Le cacao du Ghana
+La soie du Japon
+Le poisson du lac
+L’eau de pluie
+La poussière du désert
+Le sable de la dune
+La pierre de volcan
+Le bois du châtaignier
+Le métal du sous-sol
+Le vin de Moselle
+Le fromage de montagne
+Le miel du verger
+Le riz du delta
+La farine d’épeautre
+Le café du Kenya
+Le thé de Darjeeling
+Le vin du Médoc
+La terre des collines
+La sève du bouleau
+Le sel du rivage
+Le jus de citron
+La cendre du foyer
+La pierre des Pyrénées
+Le bois du cèdre
+Le miel des champs
+Le vin de Rioja
+Le fromage de brebis corse
+La farine d’avoine
+Le cuir de zèbre
+Le sucre du palmier
+La glace du glacier
+Le chocolat du Venezuela
+Le vin du Languedoc
+La laine de lama
+La mangue de Colombie
+Les condamnations de Sarkozy
+Les taxes d’Emmanuel Macron
+Les décrets du président
+Le bœuf de l'Aubrac
+L'agneau de Sisteron
+Le poulet de Bresse
+Le pruneau d'Agen
+La fraise du Périgord
+L'ail de Lomagne
+L'oignon de Roscoff
+Le piment d'Espelette
+La lentille du Puy
+La noix de Grenoble
+Le melon de Cavaillon
+Le haricot de Tarbes
+La clémentine de Corse
+Le muscat de Rivesaltes
+Le cidre de Cornouaille
+Le calvados du Pays d'Auge
+Le cognac de Charente
+L'armagnac du Gers
+Le kirsch de Fougerolles
+Le pastis de Marseille
+La liqueur de Chartreuse
+L'absinthe de Pontarlier
+Le genièvre de Houlle
+La vodka de Pologne
+Le whisky d'Écosse
+Le rhum de Martinique
+La tequila du Mexique
+Le mezcal d'Oaxaca
+Le saké de Kyoto
+Le soju de Corée
+La grappa d'Italie
+L'ouzo de Grèce
+Le raki de Turquie
+L'arak du Liban
+Le pisco du Pérou
+La cachaça du Brésil
+Le bourbon du Kentucky
+Le porto du Douro
+Le xérès d'Andalousie
+Le madère des Açores
+Le marsala de Sicile
+Le vermouth de Turin
+L'amaretto de Saronno
+Le limoncello de Sorrente
+La mirabelle de Lorraine
+La quetsche d'Alsace
+Le raisin de table
+Le blé de Beauce
+Le tournesol du Gers
+Le colza de l'Aube
+Le soja du Brésil
+Le sorgho d'Afrique
+Le manioc du Congo
+La patate de Noirmoutier
+Le topinambour du potager
+Le panais du jardin
+Le rutabaga de l'hiver
+La truffe du Périgord
+Le cèpe de Bordeaux
+La morille des bois
+La girolle des pins
+Le champignon de Paris
+L'huître de Marennes-Oléron
+La moule de bouchot
+La coquille de Saint-Jacques
+Le homard de Bretagne
+La langouste de Cuba
+La crevette du Vietnam
+Le crabe du Kamtchatka
+Le saumon d'Écosse
+Le thon de Méditerranée
+La morue de Terre-Neuve
+Le hareng de la mer du Nord
+La sardine de Saint-Gilles-Croix-de-Vie
+L'anchois de Collioure
+L'anguille de l'étang
+Le brochet de la rivière
+La truite du torrent
+La carpe du vivier
+L'esturgeon de la Gironde
+Le caviar d'Iran
+L'argile du ravin
+Le calcaire du bassin
+Le silex de la falaise
+Le granit de Bretagne
+L'ardoise d'Angers
+Le grès des Vosges
+Le schiste de la montagne
+Le basalte d'Auvergne
+Le gypse de la carrière
+Le talc de Luzenac
+Le fer de Lorraine
+Le charbon du Nord
+L'or de Guyane
+L'argent du Potosi
+Le cuivre du Chili
+L'étain de Bolivie
+Le plomb du massif
+Le zinc de la mine
+Le nickel de Nouvelle-Calédonie
+L'aluminium de la bauxite
+Le titane du sable
+L'uranium du Niger
+Le lithium de Bolivie
+Le cobalt du Katanga
+Le pétrole du Texas
+Le gaz de Sibérie
+Le diamant de Kimberley
+L'émeraude de Colombie
+Le rubis de Birmanie
+Le saphir de Ceylan
+La turquoise d'Iran
+Le lapis-lazuli d'Afghanistan
+L'ambre de la Baltique
+Le jade de Chine
+L'opale d'Australie
+La malachite d'Afrique
+L'obsidienne de l'Islande
+Le soufre du cratère
+Le phosphate du Maroc
+La potasse d'Alsace
+La voiture d'Allemagne
+La montre de Suisse
+Le téléphone de Corée
+L'ordinateur de Taïwan
+L'avion de Toulouse
+Le paquebot de Saint-Nazaire
+Le train d'Alstom
+La fusée de Kourou
+Le satellite de Cannes
+L'acier de Dunkerque
+Le pneu de Clermont-Ferrand
+La chaussure d'Italie
+Le sac de Paris
+La mode de Milan
+Le jouet de Chine
+Le tapis d'Orient
+La porcelaine de Limoges
+Le cristal de Baccarat
+La faïence de Gien
+Le couteau de Thiers
+La dentelle de Calais
+La tapisserie d'Aubusson
+Le gant de Millau
+Le chapeau d'Équateur
+La perruque de Versailles
+Le meuble de Scandinavie
+La verrerie de Biot
+Le santon de Provence
+La marionnette de Lyon
+L'automate de Suisse
+L'air du large
+La brise de mer
+Le vent d'ouest
+La pluie d'orage
+La neige d'altitude
+La grêle du ciel
+L'éclair du nuage
+Le tonnerre de Dieu
+La chaleur du soleil
+La lumière du jour
+L'ombre de l'arbre
+Le reflet de l'eau
+L'écho de la vallée
+L'odeur de la forêt
+Le bruit de la ville
+La rumeur du couloir
+Le cri de la chouette
+Le chant de l'oiseau
+Le rugissement du lion
+Le murmure du ruisseau
+L'appel de la forêt
+La force du courant
+La puissance du moteur
+L'énergie du vent
+Le rayonnement de la source
+La fuite du gaz
+L'émanation de la cave
+La vapeur de la bouilloire
+La fumée de la cheminée
+L'étincelle du silex
+La loi de la République
+Le décret du Premier ministre
+L'arrêté de la préfecture
+La circulaire du rectorat
+L'amendement de l'Assemblée
+Le jugement du tribunal
+La sentence du juge
+L'avis de l'expert
+Le rapport de la commission
+La décision du conseil
+Le vote de l'électeur
+La pétition des citoyens
+La plainte de la victime
+Le témoignage du voisin
+L'aveu du coupable
+La rumeur du village
+L'idée de génie
+Le concept de l'auteur
+La théorie de Newton
+Le théorème de Pythagore
+La loi de Murphy
+Le principe d'Archimède
+La fable de La Fontaine
+Le roman de Victor Hugo
+La pièce de Molière
+Le poème de Baudelaire
+Le tableau de Picasso
+La sculpture de Rodin
+Le film de Spielberg
+La symphonie de Beethoven
+L'opéra de Verdi
+Le ballet de Tchaïkovski
+La chanson de Piaf
+Le rap de Marseille
+Le rock d'Angleterre
+Le jazz de La Nouvelle-Orléans
+Le blues du Mississippi
+Le tango d'Argentine
+La salsa de Cuba
+Le reggae de Jamaïque
+Le sang du donneur
+L'organe du patient
+La cellule de la peau
+Le gène du parent
+L'ADN de la salive
+L'hormone de la croissance
+L'anticorps du sérum
+Le virus de la grippe
+La bactérie du yaourt
+La toxine du champignon
+Le venin du serpent
+La soie de l'araignée
+L'écaille du poisson
+La plume du paon
+Le poil du chien
+La corne du cerf
+L'ivoire de l'éléphant
+La carapace de la tortue
+La coquille de l'escargot
+Le duvet de l'oie
+L'exilé de Syrie
+Le réfugié d'Ukraine
+L'immigré d'Italie
+Le touriste de Chine
+L'étudiant d'Espagne
+Le marin de Bretagne
+Le mineur du Nord
+Le berger des Pyrénées
+Le paysan du Berry
+Le vigneron du Bordelais
+Le financier de Londres
+Le trader de Wall Street
+Le fonctionnaire de l'État
+Le cadre de l'entreprise
+L'ouvrier de l'usine
+L'artisan du quartier
+Le commerçant du centre
+Le prêtre de la paroisse
+Le moine de l'abbaye
+Le rabbin de la synagogue
+L'imam de la mosquée
+Le gourou de l'Inde
+Le sage de la montagne
+L'ermite de la grotte
+Le pirate des Caraïbes
+Le cow-boy du Texas
+Le samouraï du Japon
+Le chevalier de la Table Ronde
+Le soldat de la patrie
+L'espion de Russie
+Le signal de l'antenne
+L'onde du radar
+Le message de l'espace
+La donnée du serveur
+L'image du satellite
+Le son du micro
+La vidéo de la caméra
+Le flux d'Internet
+L'alerte du système
+La notification du mobile
+Le courriel du client
+La réponse du bot
+Le code du développeur
+Le bug de la mise à jour
+Le virus de l'ordinateur
+Le mot de passe du compte
+L'accès de l'utilisateur
+La trace du cookie
+Le log de la console
+Le ping du réseau
+L'héritage de l'Antiquité
+La ruine du Moyen Âge
+Le vestige de la Renaissance
+Le style du XVIIIe siècle
+La mode des années folles
+L'esprit de Mai 68
+La cicatrice de la guerre
+Le trauma de l'enfance
+Le souvenir du passé
+La leçon de l'histoire
+Le fossile du Jurassique
+La momie d'Égypte
+Le manuscrit de la Mer Morte
+La pyramide des Mayas
+Le temple de Grèce
+L'aqueduc de Rome
+La cathédrale de l'an mille
+Le château de la Loire
+Le fort de Vauban
+Le bunker de la Côte
+Le courant du fleuve
+La marée de l'océan
+La houle du large
+Le souffle du vent
+La poussée d'Archimède
+La force de gravité
+L'attraction de la Lune
+Le magnétisme du pôle
+L'électricité du barrage
+L'énergie du noyau
+La chaleur de la flamme
+La froideur de l'espace
+La pression du pneu
+La tension du câble
+La vibration de la corde
+L'oscillation du pendule
+La rotation de la Terre
+L'orbite de la planète
+La trajectoire de la balle
+L'impact de la météorite
+Le jus du fruit
+L'huile de la graine
+Le lait de la vache
+L'œuf de la poule
+Le miel de l'abeille
+La cire du rayon
+La gelée de la ruche
+Le pollen de l'étamine
+Le nectar de la fleur
+La sève de l'arbre
+La résine du pin
+Le latex de l'hévéa
+Le liège du chêne
+L'écorce du bouleau
+La fibre du lin
+Le fil du cocon
+La plume du canard
+Le poil du lapin
+La crinière du cheval
+La défense de l'éléphant
+Le cigare de La Havane
+L'écharpe de cachemire
+Le tapis de Perse
+La perle du Pacifique
+Le corail des récifs
+L'ambre gris de la baleine
+Le musc du chevrotain
+La vanille de Madagascar
+Le poivre du Sichuan
+La cannelle de Ceylan
+Le clou de girofle des Moluques
+La muscade d'Indonésie
+Le curcuma d'Inde
+Le gingembre de Chine
+Le wasabi du Japon
+Le soja du Tonkin
+Le nuoc-mâm du Vietnam
+Le curry de Madras
+Le thé du Yunnan
+Le café de Java
+Le vin de la propriété de l'oncle
+L'eau de la source de la montagne
+Le sable de la plage de l'île
+Le bois de la charpente de l'église
+Le fer de la mine de Lorraine
+L'or de la banque d'Espagne
+La laine du mouton de la ferme
+Le lait de la traite du matin
+Le parfum de la rose du jardin
+Le fruit de la récolte de l'été
+Le cri de la bête de la forêt
+Le bruit de la chute de l'eau
+L'odeur de la cuisine de maman
+Le goût du pain de la boulangerie
+Le sel des marais de l'Atlantique
+La poussière des livres de la bibliothèque
+La lumière du phare de la pointe
+Le vent des plaines de la Beauce
+La neige des sommets de l'Everest
+La pierre des murs de la cité

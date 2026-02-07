@@ -1,0 +1,500 @@
+La scie de découpe
+Le marteau de frappe
+Le pinceau de finition
+Le burin de sculpture
+La truelle de maçonnerie
+Le rabot de lissage
+La mèche de perçage
+Le tamis de filtrage
+La meule de polissage
+L'enclume de forge
+Le chalumeau de soudure
+La presse de moulage
+Le rouleau de peinture
+La règle de traçage
+Le compas de mesure
+La clé de serrage
+Le tournevis de montage
+La pince de torsion
+Le ciseau de taille
+Le poinçon de marquage
+Le scalpel d'incision
+La seringue d'injection
+Le stéthoscope d'auscultation
+Le tensiomètre de contrôle
+La sonde de prélèvement
+Le laser d'opération
+Le fil de suture
+Le plâtre de maintien
+La compresse de nettoyage
+Le thermomètre de mesure
+Le miroir de dentisterie
+La fraise de forage
+Le spéculum d'examen
+Le cathéter de perfusion
+Le défibrillateur de réanimation
+Le couteau de tranchage
+Le fouet de battage
+La louche de service
+Le rouleau de pétrissage
+L'économe d'épluchage
+La râpe de broyage
+Le moule de cuisson
+La poêle de friture
+Le chinois de filtrage
+La spatule de mélange
+L'entonnoir de remplissage
+Le tamis de saupoudrage
+La balance de pesage
+Le batteur de mixage
+La marmite de mijotage
+Le levier de commande
+Le volant de direction
+La pédale de freinage
+L'hélice de propulsion
+La grue de levage
+Le treuil de remorquage
+La courroie de transmission
+Le vérin de levage
+La pompe d'amorçage
+Le chariot de manutention
+La sangle de fixation
+Le crochet de levage
+L'ancre de mouillage
+Le gouvernail de navigation
+Le parachute de freinage
+Le clavier de saisie
+La souris de pointage
+L'écran d'affichage
+Le micro d'enregistrement
+L'antenne de réception
+Le câble de connexion
+La puce de traitement
+Le modem de transmission
+Le capteur de détection
+La lentille de focalisation
+Le projecteur de diffusion
+Le scanner de numérisation
+L'imprimante de tirage
+Le bouton de démarrage
+Le curseur de réglage
+La lame de scie de découpe
+Le pinceau de soie de vernissage
+La clé en acier de serrage
+Le rouleau de mousse de peinture
+La mèche de tungstène de perçage
+Le marteau de bois de frappe
+La seringue de verre d'injection
+Le câble de cuivre de transmission
+La grue de métal de levage
+Le couteau de cuisine de tranchage
+La plume d'écriture
+Le calame de calligraphie
+Le fusain de dessin
+La gouache de mise en couleur
+Le ciseau de découpage
+La colle d'assemblage
+L'agrafe de fixation
+Le trombone de maintien
+Le tampon de validation
+Le sceau d'authentification
+La corde de pendaison
+Le fouet de flagellation
+Le bâton de marche
+La canne d'appui
+Le piolet d'escalade
+Le mousqueton d'assurage
+Le filet de capture
+L'hameçon de pêche
+Le fusil de chasse
+La balle de tir
+Le radar de surveillance
+Le sonar de détection
+Le télescope d'observation
+Le microscope d'étude
+L'éprouvette d'analyse
+Le réacteur de combustion
+La turbine de génération
+Le panneau de captation
+La pile de stockage
+L'aimant d'attraction
+La clef d'ouverture
+Le verrou de fermeture
+Le loquet de blocage
+La charnière de rotation
+Le ressort de rappel
+La poulie de renvoi
+Le pignon d'entraînement
+La bielle de transformation
+Le vilebrequin de rotation
+La bougie d'allumage
+Le savon de nettoyage
+L'éponge de lavage
+Le balai de balayage
+La brosse de brossage
+Le peigne de démêlage
+Le rasoir de rasage
+Le miroir de réflexion
+La lampe d'éclairage
+Le four de cuisson
+Le frigo de conservation
+Le masque de protection
+Le gant de manipulation
+Le casque de sécurité
+La botte de protection
+Le gilet de signalisation
+Le sifflet de rappel
+Le mégaphone de diffusion
+La sirène d'alerte
+Le gyrophare de signalement
+Le panneau d'indication
+Le fil d'ariane de guidage
+La boussole d'orientation
+Le sextant de localisation
+Le sablier de mesure
+Le chronomètre de pointage
+La balance de pesage
+Le mètre de mesurage
+Le niveau de vérification
+L'équerre d'ajustage
+Le gabarit de découpe
+Le pinceau de maquillage
+La lime de polissage
+Le fer de repassage
+La pince de épilation
+Le séchoir de séchage
+Le bigoudi de frisage
+La tondeuse de tonte
+Le vaporisateur de diffusion
+Le flacon de dosage
+La cuillère de prélèvement
+Le marteau de adjudication
+La cloche de annonce
+Le gong de départ
+Le drapeau de signalement
+Le bâton de relais
+La raquette de frappe
+Le club de swing
+La batte de défense
+Le gant de réception
+Le panier de marquage
+Le filet de arrêt
+Le poteau de but
+La ligne de démarcation
+Le plot de balisage
+Le tapis de sol
+La barre de traction
+Le poids de musculation
+L'élastique de extension
+Le ballon de exercice
+Le sifflet de arbitrage
+L'urne de vote
+Le bulletin de expression
+Le registre de émargement
+Le tampon de date
+L'encre de impression
+Le rouleau de scellé
+La cire de cachetage
+Le ruban de inauguration
+Le ciseau de coupe
+Le socle de présentation
+Le podium de remise
+La coupe de récompense
+La médaille de distinction
+Le diplôme de réussite
+Le cadre de mise en valeur
+Le projecteur de éclairage
+Le réflecteur de renvoi
+Le trépied de support
+Le stabilisateur de image
+L'objectif de prise
+Le filtre de correction
+Le flash de appoint
+Le déclencheur de photo
+Le viseur de cadrage
+La carte de stockage
+La clé de cryptage
+Le pare-feu de protection
+L'antivirus de analyse
+Le script de automatisation
+Le bot de modération
+La sonde de exploration
+Le forage de extraction
+Le tamis de orpaillage
+La batée de lavage
+Le dynamitage de abattage
+La mèche de mise à feu
+Le détonateur de explosion
+Le robot de déminage
+Le canon de arrosage
+Le tuyau de extinction
+La lance de projection
+L'échelle de sauvetage
+La civière de transport
+Le défibrillateur de choc
+L'oxygène de assistance
+Le garrot de compression
+L'écharpe de maintien
+L'attelle de immobilisation
+Le corset de correction
+La prothèse de remplacement
+Le scalpel de dissection
+La pince de hémostase
+L'écarteur de champ
+L'aspirateur de liquide
+Le drain de évacuation
+La poche de recueil
+Le flacon de perfusion
+Le tube de intubation
+Le masque de inhalation
+Le moniteur de surveillance
+Le marteau de reflex
+La lampe de examen
+Le miroir de larynx
+La spatule de langue
+Le spéculum de oreille
+L'otoscope de vision
+L'ophtalmoscope de fond
+Le tonomètre de tension
+Le spiromètre de souffle
+L'audiomètre de ouïe
+L'aiguille de acupuncture
+La ventouse de succion
+Le cristal de lithothérapie
+L'encens de purification
+Le bol de méditation
+Le tapis de yoga
+La brique de appui
+La sangle de étirement
+Le coussin de assise
+La musique de relaxation
+Le parfum de ambiance
+La bougie de éclairage
+Le livre de chevet
+La liseuse de lecture
+Le marque-page de repère
+Le stylo de écriture
+Le carnet de notes
+L'agenda de rappel
+Le répertoire de contacts
+Le classeur de tri
+La pochette de transport
+L'enveloppe de envoi
+Le timbre de affranchissement
+Le cachet de poste
+L'étiquette de adresse
+Le code de barres de suivi
+La puce de puçage
+Le collier de laisse
+La muselière de garde
+La cage de transport
+Le râteau de jardinage
+La pelle de creusage
+La pioche de défonçage
+La binette de binage
+Le sécateur de taille
+La cisaille de élagage
+La tondeuse de coupe
+Le scarificateur de aération
+Le semoir de semis
+Le plantoir de repiquage
+L'arrosoir de apport
+Le tuyau de arrosage
+La buse de aspersion
+Le programmateur de cycle
+La serre de forçage
+Le voile de hivernage
+Le tuteur de maintien
+Le lien de liage
+L'engrais de nutrition
+Le compost de amendement
+Le balai de feuilles
+La brouette de transport
+Le panier de récolte
+Le sac de déchets
+Le broyeur de végétaux
+Le hachoir de viande
+Le batteur de œufs
+Le fouet de sauce
+La spatule de friture
+La pince de service
+La louche de potage
+L'écumoire de bouillon
+La passoire de égouttage
+Le chinois de filtrage
+Le moulin de poivre
+La râpe de fromage
+Le presse-ail de ail
+L'ouvre-boîte de conserve
+Le décapsuleur de bière
+Le tire-bouchon de vin
+Le plateau de service
+La cloche de maintien
+Le dessous-de-plat de protection
+Le gant de cuisine
+Le tablier de protection
+La toque de hygiène
+L'éponge de vaisselle
+Le torchon de essuyage
+Le liquide de lavage
+La brosse de récurage
+Le savon de main
+La serviette de essuyage
+Le séchoir de air
+Le papier de toilette
+La brosse de cuvette
+Le ventouse de débouchage
+Le furet de canalisation
+Le plomb de scellé
+La clé de serrage de tuyau
+Le joint de étanchéité
+Le fil de plomb
+La pile de lampe
+L'ampoule de secours
+Le fusible de protection
+Le disjoncteur de coupure
+Le multimètre de mesure
+Le testeur de phase
+Le fer de soudage
+L'étain de brasage
+La pompe de dessoudage
+La lime de métal
+Le papier de ponçage
+La cale de ponçage
+Le rabot de bois
+Le ciseau de bois
+Le maillet de frappe
+La gouge de sculpture
+Le serre-joint de maintien
+L'étau de serrage
+L'établi de travail
+Le tréteau de appui
+Le niveau de maçon
+Le fil de plomb de aplomb
+Le cordeau de alignement
+Le mètre de ruban
+La pige de mesure
+Le crayon de charpentier
+La craie de marquage
+Le pointeau de amorçage
+Le chasse-goupille de extraction
+Le vérin de levage
+La sangle de arrimage
+Le palan de levage
+La poulie de levage
+La corde de traction
+Le treuil de halage
+La barre de remorquage
+Le câble de démarrage
+Le chargeur de batterie
+Le compresseur de gonflage
+Le manomètre de pression
+La pompe de pied
+La valve de gonflage
+Le pneu de secours
+Le cric de levage
+La clé de roue
+Le triangle de panne
+Le gilet de secours
+La lampe de poche
+La pile de rechange
+Le bâton de craie
+Le feutre de tableau
+La brosse de effaçage
+Le pointeur de lecture
+La règle de soulignage
+Le compas de cercle
+Le rapporteur de angle
+L'équerre de tracé
+Le taille-crayon de affûtage
+La gomme de effacement
+Le correcteur de texte
+Le ruban de masquage
+La colle de collage
+Le scotch de emballage
+La ficelle de ficelage
+Le papier de emballage
+Le carton de stockage
+Le bac de tri
+Le casier de rangement
+L'étagère de classement
+Le dossier de archive
+La chemise de dossier
+L'intercalaire de séparation
+L'agrafeuse de reliure
+La perforatrice de trou
+L'œillet de renfort
+Le ressort de reliure
+La plastifieuse de protection
+Le massicot de coupe
+La déchiqueteuse de destruction
+Le micro de chant
+L'enceinte de diffusion
+Le casque de écoute
+La console de mixage
+Le synthé de création
+La guitare de musique
+La corde de vibration
+Le médiator de grattage
+L'archet de frottement
+La baguette de percussion
+Le métronome de tempo
+L'accordeur de réglage
+Le pupitre de lecture
+La lampe de partition
+Le banc de piano
+Le rideau de scène
+Le projecteur de théâtre
+La poursuite de éclairage
+La machine de brouillard
+L'artifice de spectacle
+La caméra de tournage
+Le trépied de caméra
+Le micro de perche
+Le clap de tournage
+Le banc de montage
+Le disque de sauvegarde
+Le serveur de rendu
+La tablette de dessin
+Le stylet de tracé
+La souris de ordi
+Le drone de vol
+La télécommande de pilotage
+Le casque de réalité
+Le capteur de mouvement
+Le tapis de marche
+Le vélo de cardio
+Le rameur de rame
+L'altère de musculation
+Le banc de développé
+La barre de musculation
+Le disque de fonte
+Le gant de boxe
+Le protège-dents de protection
+La coquille de protection
+Le sac de frappe
+Le ring de combat
+Le tatami de chute
+Le kimono de judo
+La ceinture de grade
+Le chronomètre de match
+Le télescope de espace
+Le satellite de relais
+L'antenne de espace
+Le capteur de rayons
+Le spectromètre de analyse
+Le microscope de tunnel
+Le laser de mesure
+Le compteur de radiation
+L'accélérateur de particules
+Le détecteur de matière
+Le flacon de labo
+La pipette de dosage
+Le tube de essai
+Le portoir de tubes
+L'étuve de culture
+Le congélateur de échantillon
+La centrifugeuse de séparation
+Le distillateur de eau
+La hotte de protection
+Le carnet de labo

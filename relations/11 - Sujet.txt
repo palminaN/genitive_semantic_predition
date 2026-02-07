@@ -1,0 +1,500 @@
+Le restaurant de sushi
+Le musée d’art moderne
+Le marché de producteurs
+La salle de concert
+Le club de sport
+Le festival de cinéma
+Le jardin de botanique
+La galerie de peinture
+Le magasin de vêtements
+Le centre de formation
+Le studio de danse
+Le portrait de Van Gogh
+Le cabinet de médecine
+Le foie de canard
+Le club de lecture
+La maison de retraite
+Le parc de loisirs
+La foi de Clara
+Le roi du monde
+La boutique de chocolats
+Le bar à vin
+La cave de dégustation
+Le salon de thé
+L'échoppe de glaces
+Le stand de crêpes
+Le camion de burgers
+La foire de la truffe
+Le banquet de mariage
+Le buffet de hors-d'œuvre
+Le plateau de fruits de mer
+La salade de tomates
+La soupe de poissons
+Le ragoût de bœuf
+La tarte de pommes
+Le gâteau de chocolat
+La mousse de fraises
+Le sorbet de citron
+Le cocktail de fruits
+La dégustation de spiritueux
+Le cours de cuisine
+L'exposition de photographies
+La rétrospective de sculptures
+Le salon de l'agriculture
+La foire du livre
+Le festival de jazz
+Le concert de rock
+L'opéra de Verdi
+La pièce de boulevard
+Le film d'horreur
+Le documentaire de guerre
+La série de science-fiction
+Le reportage de société
+L'article de politique
+La chronique de mode
+Le magazine de design
+Le livre de recettes
+Le manuel de bricolage
+Le guide de voyage
+Le catalogue de meubles
+L'album de famille
+La fresque de la Renaissance
+Le buste d'empereur
+La statue de la Liberté
+Le monument de la Résistance
+La stèle de commémoration
+Le cours de mathématiques
+La leçon d'histoire
+Le séminaire de philosophie
+La conférence de physique
+Le traité de chimie
+La thèse de doctorat
+Le diplôme de gestion
+Le certificat de compétence
+La licence de droit
+Le master de marketing
+L'atelier d'écriture
+Le laboratoire de recherche
+L'institut de langues
+L'école de commerce
+La faculté de médecine
+Le département de sociologie
+L'encyclopédie de la nature
+Le dictionnaire de français
+La grammaire de latin
+L'atlas de géographie
+Le tournoi de tennis
+Le match de football
+La course de chevaux
+Le circuit de formule 1
+Le bassin de natation
+Le terrain de rugby
+La piste de ski
+Le mur d'escalade
+La salle de fitness
+Le cours de yoga
+L'équipe de basket
+Le club de bridge
+L'association de pétanque
+Le groupe de randonnée
+La partie de cartes
+Le service de cardiologie
+L'unité de pédiatrie
+Le cabinet de dentiste
+La clinique de chirurgie
+Le centre de radiologie
+L'officine de pharmacie
+Le protocole de soins
+L'examen de santé
+L'assurance de vie
+Le contrat de travail
+Le code de la route
+La loi de finances
+Le permis de construire
+Le tribunal de commerce
+Le conseil de famille
+Le magasin de chaussures
+La boutique de bijoux
+Le rayon de cosmétiques
+La foire de l'occasion
+Le marché de l'immobilier
+La bourse de Paris
+Le secteur de l'énergie
+L'industrie du luxe
+Le marché de l'emploi
+La chaîne de production
+Le restaurant de spécialités de mer
+Le musée d'art contemporain de Tokyo
+Le marché de producteurs de pays
+La salle de concert de musique classique
+Le festival de cinéma d'animation
+Le magasin de vêtements de sport
+Le centre de formation de pilotes
+Le cabinet de médecine du sport
+Le club de lecture de poésie
+La maison de retraite de luxe
+Le parc de loisirs de montagne
+La galerie de peinture de paysages
+Le studio de danse de salon
+Le portrait de jeune fille
+La foire de produits de terroir
+La fête de la musique
+La journée de la femme
+Le mois de l'autisme
+L'année de la Chine
+Le sommet de l'OTAN
+La réunion de chantier
+Le conseil de classe
+L'assemblée de copropriété
+Le comité de direction
+Le groupe de travail
+L'étude de marché
+Le sondage d'opinion
+La campagne de publicité
+Le spot de prévention
+L'affiche de propagande
+Le slogan de campagne
+Le discours de haine
+Le message d'espoir
+La parole de vérité
+Le cri de douleur
+Le chant de liberté
+La prière de délivrance
+Le dogme de l'Église
+Le mystère de la création
+Le secret de polichinelle
+La rumeur de divorce
+La nouvelle de décès
+L'avis de naissance
+Le faire-part de mariage
+L'invitation de vernissage
+Le billet de spectacle
+Le ticket de loterie
+Le bon de réduction
+Le catalogue de vente
+La liste de courses
+Le panier de la ménagère
+L'indice de pauvreté
+Le taux de croissance
+La courbe de température
+Le bulletin de météo
+L'alerte de tempête
+Le risque d'incendie
+Le plan de sauvetage
+La zone de danger
+Le périmètre de sécurité
+La consigne de silence
+L'interdiction de fumer
+L'obligation de réserve
+Le droit de grève
+La liberté d'expression
+Le restaurant de viandes
+Le bistrot de quartier
+La brasserie de luxe
+Le comptoir de tapas
+L'atelier de poterie
+Le cours de dessin
+Le stage de théâtre
+La leçon de piano
+L'exercice de grammaire
+Le problème de maths
+La question de confiance
+L'objet de discorde
+Le sujet d'examen
+Le thème de mémoire
+L'intrigue de roman
+Le scénario de film
+Le personnage de fiction
+Le héros de légende
+Le mythe de Sisyphe
+Le conte de fées
+La fable de Esope
+La légende de Arthur
+L'histoire de France
+Le récit de vie
+Le témoignage de rescapé
+L'autobiographie de star
+Le portrait de famille
+La photo de classe
+Le film de vacances
+La vidéo de mariage
+Le dossier de candidature
+Le formulaire d'inscription
+Le reçu de paiement
+La facture d'électricité
+Le relevé de compte
+L'état de lieux
+Le constat d'accident
+Le rapport de police
+La plainte de vol
+L'enquête de moralité
+Le test de grossesse
+L'examen de sang
+La radio de contrôle
+Le bilan de santé
+La cure de repos
+Le traitement de faveur
+L'abus de pouvoir
+Le déni de justice
+Le crime de lèse-majesté
+Le délit de fuite
+Le péché de gourmandise
+Le vice de forme
+La preuve d'amour
+La marque de respect
+Le signe de tête
+Le geste de la main
+Le regard de défi
+Le sourire de mépris
+Le rire de joie
+Les larmes de tristesse
+Le club de karaté
+La section de gymnastique
+La ligue de football
+Le comité d'organisation
+La fédération d'escrime
+Le cercle de réflexion
+Le salon de l'auto
+La foire de Lyon
+L'exposition de peinture
+Le vernissage d'artiste
+La galerie de photos
+L'agence de mannequins
+La maison de couture
+L'atelier de mode
+Le bureau de style
+Le cabinet d'architecture
+L'étude de notaire
+L'agence de voyages
+La centrale de réservations
+Le guichet de vente
+Le service de livraison
+La hotline de support
+Le centre d'appels
+La plateforme de streaming
+Le site de rencontre
+Le forum de discussion
+Le groupe de parole
+La cellule de crise
+Le poste de secours
+La caserne de pompiers
+Le commissariat de police
+L'hôtel de ville
+Le palais de justice
+La chambre de commerce
+L'office de tourisme
+La maison de quartier
+Le centre de loisirs
+La colonie de vacances
+Le camp de scoutisme
+Le club de vacances
+Le restaurant de grillades
+Le bar à huîtres
+La cave de porto
+Le comptoir de fromages
+Le buffet de desserts
+Le plateau de charcuterie
+La salade de pâtes
+Le plat de riz
+Le bol de soupe
+La tasse de café
+Le verre de bière
+La bouteille de vin
+Le flacon de parfum
+Le pot de confiture
+La boîte de chocolats
+Le sac de billes
+Le paquet de cigarettes
+Le carnet d'adresses
+Le répertoire de chansons
+Le catalogue de timbres
+L'album de BD
+Le livre de poèmes
+La revue de presse
+Le journal de bord
+Le carnet de notes
+La feuille de route
+Le plan de vol
+La carte de visite
+Le menu de fête
+La carte de vins
+Le barème de prix
+Le tarif de groupe
+La grille de salaires
+Le calendrier de l'avent
+L'agenda de bureau
+L'horaire de bus
+Le tableau de départs
+La liste d'attente
+Le registre de présence
+Le bulletin de vote
+La leçon de vie
+Le manuel de survie
+Le guide de pêche
+Le traité de paix
+L'accord de principe
+La promesse de vente
+L'acte de naissance
+Le certificat de décès
+Le titre de séjour
+Le permis de conduire
+La carte d'identité
+Le passeport de voyage
+Le visa de touriste
+Le billet de banque
+La pièce de monnaie
+Le jeton de présence
+Le médaillon de baptême
+L'anneau de fiançailles
+La bague de mariage
+Le collier de perles
+Le restaurant de fruits
+La boutique de thés
+Le rayon de surgelés
+Le stand de fleurs
+L'étal de légumes
+La poissonnerie de mer
+La boucherie de campagne
+La charcuterie de pays
+La boulangerie de quartier
+La pâtisserie de luxe
+L'épicerie de village
+Le bazar de curiosités
+L'antiquité de brocante
+La librairie de poche
+Le kiosque de journaux
+Le magasin de jouets
+La boutique de cadeaux
+Le fleuriste de noces
+Le salon de coiffure
+L'institut de massage
+Le centre d'esthétique
+Le spa de détente
+La salle de billard
+Le casino de jeux
+Le parc de safari
+Le zoo de reptiles
+L'aquarium de coraux
+La volière de rapaces
+Le jardin d'iris
+Le potager d'herbes
+Le verger de pommiers
+La vigne de merlot
+Le champ de lavande
+La prairie de trèfles
+La forêt de pins
+Le bois de hêtres
+La lande de bruyères
+La falaise de craie
+La plage de galets
+La grotte de stalactites
+Le restaurant de pâtes
+La trattoria de spécialités
+La pizzeria de bois
+Le snack de frites
+Le bar à soupes
+L'atelier de couture
+La classe de piano
+Le cours de chant
+Le stage de voile
+La leçon de conduite
+L'école de cirque
+Le centre de yoga
+La salle de boxe
+Le club de voile
+La base de kayak
+Le centre de plongée
+La station de ski
+Le golf de mer
+Le circuit de cross
+Le stade de rugby
+L'arène de taureaux
+L'hippodrome de trot
+Le vélodrome de piste
+La piscine de vagues
+La patinoire de glace
+Le bowling de quartier
+Le laser-game de zone
+L'escape-game de ville
+Le parc de trampolines
+La salle de jeux
+Le cabinet de voyance
+Le bureau de tabac
+La maison de la presse
+Le débit de boissons
+Le point de vente
+La foire de Paris
+Le salon du livre
+Le festival de musique
+La biennale d'art
+La fête foraine
+Le marché de Noël
+La braderie de Lille
+Le carnaval de Venise
+La féria de Nîmes
+Le pèlerinage de Lourdes
+La marche de fierté
+Le défilé de mode
+Le salon de l'habitat
+La foire de l'auto
+L'exposition de photos
+Le musée de l'air
+La cité des sciences
+Le planétarium de ville
+L'observatoire de ciel
+Le jardin d'enfants
+La cour de récréation
+La salle des fêtes
+Le palais des congrès
+Le centre d'exposition
+La halle aux grains
+Le restaurant de sushis
+La taverne de campagne
+Le pub de bières
+L'estaminet de Nord
+Le bouchon de Lyon
+La bodega de vins
+Le bistrot de vins
+La crêperie de Bretagne
+La gaufrerie de rue
+La sandwicherie de midi
+L'atelier de bois
+La forge de fer
+La filature de coton
+La mine de charbon
+Le puits de pétrole
+La centrale de gaz
+L'usine de voitures
+Le chantier de bateaux
+La scierie de sapins
+La meunerie de blé
+La laiterie de vaches
+La fromagerie de chèvres
+La cave de vins
+Le chai de cognacs
+La distillerie de rhums
+La brasserie de malts
+La torréfaction de cafés
+La confiserie de sucres
+La chocolaterie de cacaos
+La biscuiterie de nems
+Le club de lecture de romans
+La ligue de défense de droits
+L'association de protection de nature
+Le syndicat de défense de salariés
+Le parti de réforme de taxes
+Le comité de lutte de faim
+Le groupe de soutien de malades
+L'unité de recherche de cancer
+La fondation de sauvegarde de patrimoine
+Le prix de littérature de jeunesse
+Le trophée de meilleur de sport
+La coupe de vainqueur de match
+Le titre de champion de boxe
+La médaille de mérite de travail
+L'ordre de chevalier de légion
+Le diplôme de fin de cycle
+Le brevet de pilote de ligne
+Le certificat de stage de voile
+L'attestation de réussite de concours
+Le dossier de preuve de culpabilité

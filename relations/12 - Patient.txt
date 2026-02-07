@@ -1,0 +1,500 @@
+Travail du bois
+Ouverture de la porte
+Sablage du mur
+Ponçage du parquet
+Taille du diamant
+Forge de l'acier
+Fonte du métal
+Soudure de la coque
+Polissage du verre
+Découpe de la tôle
+Pliage du zinc
+Rabotage de la planche
+Perçage de la cloison
+Fraisage de la pièce
+Tournage du bronze
+Cuisson de l'argile
+Émaillage de la vasque
+Vernissage du meuble
+Teinture du cuir
+Tannage de la peau
+Tissage du coton
+Filage de la laine
+Blanchiment du tissu
+Impression du papier
+Reliure de l'ouvrage
+Gravure de la plaque
+Moulage du plâtre
+Coffrage du béton
+Ferraillage de la dalle
+Goudronnage de la route
+Labour du champ
+Semailles du blé
+Arrosage du jardin
+Récolte du maïs
+Cueillette des olives
+Vendange de la vigne
+Pressage du raisin
+Battage du grain
+Égrenage du coton
+Émondage de l'arbre
+Élagage de la branche
+Abattage du chêne
+Débitage du tronc
+Dessouchage du terrain
+Drainage du marais
+Irrigation de la plaine
+Fertilisation du sol
+Traitement de la semence
+Protection de la flore
+Sauvegarde de l'espèce
+Élevage du bétail
+Traite de la vache
+Tonte du mouton
+Marquage du troupeau
+Nourrissage des porcs
+Examen du patient
+Diagnostic de la maladie
+Traitement de l'infection
+Guérison du blessé
+Chirurgie du genou
+Amputation du membre
+Greffe du foie
+Suture de la plaie
+Pansement de la brûlure
+Vaccination de l'enfant
+Auscultation du thorax
+Palpation de l'abdomen
+Prélèvement du sang
+Analyse de l'urine
+Radiographie du crâne
+Massage du dos
+Rééducation du sportif
+Lavage des mains
+Brossage des dents
+Rasage de la barbe
+Coupe des cheveux
+Épilation des jambes
+Maquillage du visage
+Nettoyage de la peau
+Hydratation de l'épiderme
+Vote de la loi
+Rédaction du contrat
+Signature de l'accord
+Validation du projet
+Audit de la gestion
+Contrôle des comptes
+Analyse des données
+Archivage du dossier
+Classement de la pièce
+Enregistrement du vol
+Réservation de la chambre
+Annulation du séjour
+Paiement de la facture
+Remboursement du prêt
+Saisie du véhicule
+Arrestation du suspect
+Interrogatoire du témoin
+Jugement de l'accusé
+Condamnation du coupable
+Libération du prisonnier
+Nettoyage de la vitre
+Lessive du linge
+Repassage de la chemise
+Pliage du drap
+Rangement de la chambre
+Balayage du seuil
+Lavage de la voiture
+Réparation du moteur
+Montage du pneu
+Vidange du réservoir
+Remplissage de la cuve
+Éclairage de la pièce
+Chauffage de l'eau
+Refroidissement de la salle
+Aération du local
+Décoration du salon
+Aménagement des combles
+Rénovation de la façade
+Peinture du plafond
+Pose du carrelage
+Préparation du repas
+Épluchage de la pomme
+Découpe de la viande
+Hachage de l'oignon
+Éminçage des champignons
+Battage des blancs
+Mélange de la pâte
+Pétrissage du pain
+Cuisson du rôti
+Grillade du poisson
+Friture des pommes
+Vapeur des légumes
+Assaisonnement de la salade
+Garnissage de la tarte
+Nappage du gâteau
+Dressage de l'assiette
+Service de la soupe
+Dégustation du vin
+Rinçage des verres
+Essuyage de la vaisselle
+Apprentissage de la leçon
+Lecture du livre
+Écriture de la lettre
+Traduction du texte
+Récitation du poème
+Étude du dossier
+Correction de l'exercice
+Évaluation de l'élève
+Encadrement du stage
+Entraînement de l'équipe
+Échauffement des muscles
+Étirement des membres
+Arbitrage du match
+Chronométrage de la course
+Classement du coureur
+Réalisation du film
+Montage de la séquence
+Mixage du son
+Projection de l'image
+Restauration du tableau
+Réorganisation de l'entreprise
+Modernisation de l'usine
+Informatisation du service
+Automatisation de la chaîne
+Numérisation du document
+Restructuration du groupe
+Fusion des sociétés
+Scission de la branche
+Privatisation de la régie
+Nationalisation de la banque
+Délocalisation de la production
+Externalisation de la maintenance
+Optimisation des coûts
+Réduction des effectifs
+Augmentation du capital
+Création de l'emploi
+Suppression du poste
+Promotion du cadre
+Mutation du salarié
+Licenciement du personnel
+Protection de l'environnement
+Lutte contre la pollution
+Collecte des déchets
+Recyclage du verre
+Traitement des eaux
+Valorisation du site
+Préservation de la ressource
+Surveillance du climat
+Observation des astres
+Exploration de l'espace
+Colonisation de la planète
+Exploitation de la mine
+Extraction du pétrole
+Forage du puits
+Raffinage de l'essence
+Distribution du courant
+Consommation de l'énergie
+Économie de la ressource
+Gaspillage du stock
+Renouvellement de la réserve
+Construction du pont
+Démolition de l'immeuble
+Reconstruction du quartier
+Extension du bâtiment
+Surélévation de la toiture
+Isolation de la paroi
+Étanchéité de la terrasse
+Ravalement du mur
+Décapage de la pierre
+Rejointoiement de la brique
+Installation de l'alarme
+Branchement du réseau
+Raccordement de la fibre
+Configuration du système
+Mise à jour du logiciel
+Débogage du programme
+Test de l'application
+Lancement du produit
+Vente de la voiture
+Livraison du colis
+Expédition de la commande
+Réception du message
+Lecture du courriel
+Réponse de la demande
+Traitement du dossier
+Instruction de l'affaire
+Plaidoirie de la cause
+Délibéré du verdict
+Exécution de la sentence
+Notification de l'acte
+Publication du décret
+Abrogation de la loi
+Révision du texte
+Traduction de l'œuvre
+Adaptation du roman
+Illustration du livre
+Parution de l'article
+Diffusion de l'émission
+Enregistrement du disque
+Captation du spectacle
+Organisation de la fête
+Préparation de la cérémonie
+Animation de la soirée
+Accueil des invités
+Placement des spectateurs
+Surveillance de la plage
+Sécurisation du site
+Balisage du sentier
+Signalisation du danger
+Évacuation de la zone
+Sauvetage de la victime
+Transport du blessé
+Admission du patient
+Surveillance de la tension
+Mesure de la glycémie
+Injection du produit
+Pose du cathéter
+Retrait du pansement
+Désinfection de la zone
+Protection de la plaie
+Éducation des enfants
+Garde des nourrissons
+Soutien des aînés
+Accompagnement des malades
+Aide des démunis
+Distribution des repas
+Collecte des fonds
+Gestion du budget
+Épargne du salaire
+Investissement du capital
+Achat des fournitures
+Location de l'outillage
+Emprunt de l'ouvrage
+Retour du matériel
+Échange de l'article
+Réparation de la fuite
+Débouchage de l'évier
+Remplacement du joint
+Purge du radiateur
+Ramonage du conduit
+Taille de la haie
+Tonte de la pelouse
+Désherbage du massif
+Plantation de l'arbre
+Semis de la fleur
+Récolte du fruit
+Stockage de la paille
+Pressage du foin
+Silage du maïs
+Broyage des branches
+Sciage du bois
+Fendage de la bûche
+Empilage des stères
+Séchage des planches
+Traitement du bois
+Imprégnation de la poutre
+Assemblage de la structure
+Levage de la charpente
+Couverture du toit
+Isolation des combles
+Enduit du mur
+Ponçage de l'enduit
+Pose du papier peint
+Application du vernis
+Cirage du parquet
+Nettoyage du sol
+Lavage du tapis
+Aspiration de la poussière
+Cirage des chaussures
+Blanchissage des rideaux
+Repassage de la nappe
+Couture de l'ourlet
+Rapiéçage du coude
+Changement du bouton
+Fermeture de la valise
+Préparation du sac
+Vérification des papiers
+Contrôle du billet
+Passage de la douane
+Embarquement des passagers
+Décollage de l'avion
+Atterrissage de l'appareil
+Amarrage du bateau
+Mouillage de l'ancre
+Manœuvre du gouvernail
+Réglage des voiles
+Navigation du navire
+Pilotage de la voiture
+Conduite du camion
+Chargement de la benne
+Déchargement du wagon
+Manutention des colis
+Entreposage des stocks
+Préparation de la commande
+Tri du courrier
+Distribution de la presse
+Vente du journal
+Lecture de la une
+Analyse de l'édito
+Critique du film
+Écoute du morceau
+Visionnage de la vidéo
+Partage du lien
+Téléchargement du fichier
+Installation de la mise à jour
+Redémarrage de l'ordinateur
+Extinction de la console
+Branchement de la prise
+Allumage de la lampe
+Réglage de la montre
+Remontage du mécanisme
+Nettoyage de l'objectif
+Mise au point de l'image
+Déclenchement du flash
+Impression du cliché
+Encadrement de la photo
+Accrochage du cadre
+Exposition de l'œuvre
+Vente aux enchères
+Adjudication du lot
+Recherche de la solution
+Définition du concept
+Élaboration du plan
+Rédaction du rapport
+Présentation de l'exposé
+Soutenance de la thèse
+Obtention du diplôme
+Remise du prix
+Célébration de la victoire
+Commémoration du passé
+Restauration de la paix
+Signature du traité
+Respect de la règle
+Application de la loi
+Défense des droits
+Protection des mineurs
+Surveillance des frontières
+Maintien de l'ordre
+Répression du crime
+Prévention des risques
+Secours aux victimes
+Soins aux blessés
+Réconfort des familles
+Accueil des réfugiés
+Intégration des nouveaux
+Apprentissage du métier
+Perfectionnement de la technique
+Maîtrise de l'outil
+Utilisation du logiciel
+Programmation de la machine
+Maintenance de l'équipement
+Entretien du matériel
+Renouvellement du parc
+Gestion de la flotte
+Optimisation du flux
+Contrôle de la qualité
+Traçage du produit
+Certification de l'origine
+Étiquetage du prix
+Emballage de la marchandise
+Pesée des légumes
+Calibrage des fruits
+Tri des semences
+Ensachage de la farine
+Mise en bouteille du vin
+Étiquetage des flacons
+Bouchage des carafes
+Mise en boîte des conserves
+Stockage des palettes
+Expédition des containers
+Transport de la cargaison
+Déchargement du fret
+Passage du poste
+Livraison au client
+Signature du bon
+Installation à domicile
+Mise en service du four
+Explication du mode
+Garantie de la pièce
+Service de l'après-vente
+Remboursement de l'article
+Échange de la taille
+Retouche du pantalon
+Ourlet de la jupe
+Reprise de la taille
+Changement de la doublure
+Nettoyage du cuir
+Imperméabilisation de la botte
+Remplacement du talon
+Ressemelage de la chaussure
+Lavage des cheveux
+Rinçage de la couleur
+Coupe des pointes
+Brushing de la mèche
+Fixation de la coiffure
+Taille de la barbe
+Soin du visage
+Épilation du sourcil
+Manucure des ongles
+Pose du vernis
+Massage des pieds
+Détente du corps
+Méditation de l'esprit
+Lecture du soir
+Sommeil du juste
+Rêve de la nuit
+Réveil du matin
+Préparation du café
+Tartinage du pain
+Beurrage de la biscotte
+Chauffage du lait
+Infusion du thé
+Sucrage de la boisson
+Dégustation du petit-déjeuner
+Écoute de la radio
+Lecture de la presse
+Vérification de la météo
+Choix de la tenue
+Habillement de l'enfant
+Sortie de la maison
+Fermeture de la porte
+Verrouillage du cadenas
+Appel de l'ascenseur
+Descente de l'étage
+Traversée de la rue
+Attente du bus
+Montée du marchepied
+Validation du titre
+Lecture du trajet
+Arrivée au travail
+Allumage du poste
+Consultation des messages
+Rédaction des réponses
+Planification de la journée
+Organisation des rendez-vous
+Réunion de l'équipe
+Discussion du projet
+Élaboration de la stratégie
+Prise de décision
+Action du plan
+Suivi des résultats
+Analyse des écarts
+Correction de la trajectoire
+Finalisation du dossier
+Envoi du rapport
+Rangement du bureau
+Extinction de la lumière
+Sortie de l'immeuble
+Retour à la maison
+Achat des courses
+Préparation du dîner
+Partage du repas
+Discussion de la journée
+Détente sur le canapé
+Visionnage du film
+Écoute de la musique
+Rangement de la cuisine
+Mise au lit
+Lecture de la page
+Extinction du chevet

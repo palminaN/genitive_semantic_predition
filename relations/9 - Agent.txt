@@ -1,0 +1,589 @@
+Le travail de l’ouvrier
+Le projet de l’ingénieur
+Le discours du professeur
+Le roman de l’écrivain
+Le tableau de l’artiste
+Le concert du musicien
+La découverte du chercheur
+Le film du réalisateur
+Le plan de l’architecte
+Le poème du poète
+Le spectacle de l’acteur
+Le rapport du journaliste
+Le dessin de l’illustrateur
+Le programme de l’informaticien
+Le logiciel du développeur
+La peinture de la peintre
+Le roman du romancier
+Le texte de l’auteur
+La chanson du compositeur
+La pièce de théâtre du dramaturge
+Le manuscrit de l’écrivain
+Le traité du philosophe
+Le projet de l’étudiant
+Le prototype de l’ingénieur
+Le plan du constructeur
+Le dessin du designer
+La sculpture de l’artiste
+Le tableau du peintre
+Le programme de l’architecte
+La recherche du scientifique
+L’expérience du chimiste
+La formule du mathématicien
+La théorie du physicien
+Le modèle du statisticien
+Le rapport du chercheur
+Le compte rendu du journaliste
+Le discours du politicien
+Le livre de l’écrivain
+Le roman de l’écrivain
+Le scénario du scénariste
+La bande dessinée du dessinateur
+La pièce musicale du compositeur
+Le concert du chef d’orchestre
+Le spectacle de l’artiste
+Le tableau de la peintre
+Le croquis de l’architecte
+Le projet du designer
+Le plan du constructeur
+Le poème de la poétesse
+Le texte du dramaturge
+Le film du cinéaste
+Le documentaire du réalisateur
+La recherche du biologiste
+L’expérience du physicien
+Le rapport du chercheur
+La thèse du doctorant
+Le mémoire de l’étudiant
+Le programme de l’ingénieur
+Le prototype du développeur
+Le logiciel du programmeur
+Le tableau du peintre
+Le dessin du caricaturiste
+La sculpture de l’artiste
+Le roman du romancier
+Le poème du poète
+Le manuscrit de l’écrivain
+Le discours de l’orateur
+Le spectacle de l’acteur
+La pièce de théâtre du dramaturge
+Le scénario du scénariste
+Le film du réalisateur
+Le concert du musicien
+Le programme du développeur
+Le logiciel du programmeur
+Le rapport du journaliste
+Le compte rendu du chroniqueur
+La recherche du scientifique
+L’expérience du chimiste
+La théorie du physicien
+Le modèle du statisticien
+La formule du mathématicien
+Le projet de l’ingénieur
+Le plan du constructeur
+Le croquis de l’architecte
+Le dessin du designer
+La peinture de l’artiste
+Le tableau du peintre
+La sculpture du sculpteur
+Le roman de l’écrivain
+Le poème du poète
+Le texte du dramaturge
+Le manuscrit de l’auteur
+Le discours du politicien
+Le livre de l’écrivain
+Le scénario du scénariste
+La bande dessinée du dessinateur
+La pièce musicale du compositeur
+Le concert du chef d’orchestre
+Le spectacle de l’acteur
+Le tableau de la peintre
+Le croquis de l’architecte
+Le projet du designer
+Le plan du constructeur
+Le poème de la poétesse
+Le texte du dramaturge
+Le film du cinéaste
+Le documentaire du réalisateur
+La recherche du biologiste
+L’expérience du physicien
+Le rapport du chercheur
+La thèse du doctorant
+Le mémoire de l’étudiant
+Le programme de l’ingénieur
+Le prototype du développeur
+Le logiciel du programmeur
+Le tableau du peintre
+Le dessin du caricaturiste
+La sculpture de l’artiste
+Le roman du romancier
+Le poème du poète
+Le manuscrit de l’écrivain
+Le discours de l’orateur
+Le spectacle de l’acteur
+La pièce de théâtre du dramaturge
+Le scénario du scénariste
+Le film du réalisateur
+Le concert du musicien
+Le programme du développeur
+Le logiciel du programmeur
+Le rapport du journaliste
+Le compte rendu du chroniqueur
+La recherche du scientifique
+L’expérience du chimiste
+La théorie du physicien
+Le modèle du statisticien
+La formule du mathématicien
+Le projet de l’ingénieur
+Le plan du constructeur
+Le croquis de l’architecte
+Le dessin du designer
+La peinture de l’artiste
+Le tableau du peintre
+La sculpture du sculpteur
+Le roman de l’écrivain
+Le poème du poète
+Le texte du dramaturge
+Le manuscrit de l’auteur
+Le discours du politicien
+Le livre de l’écrivain
+Le scénario du scénariste
+La bande dessinée du dessinateur
+La pièce musicale du compositeur
+Le concert du chef d’orchestre
+Le spectacle de l’acteur
+Le tableau de la peintre
+Le croquis de l’architecte
+Le projet du designer
+Le plan du constructeur
+Le poème de la poétesse
+Le texte du dramaturge
+Le film du cinéaste
+Le documentaire du réalisateur
+La recherche du biologiste
+L’expérience du physicien
+Le rapport du chercheur
+La thèse du doctorant
+Le mémoire de l’étudiant
+Le programme de l’ingénieur
+Le prototype du développeur
+Le logiciel du programmeur
+Le tableau du peintre
+Le dessin du caricaturiste
+La sculpture de l’artiste
+Le roman du romancier
+Le poème du poète
+Le manuscrit de l’écrivain
+Le discours de l’orateur
+Le spectacle de l’acteur
+La pièce de théâtre du dramaturge
+Le scénario du scénariste
+Le film du réalisateur
+Le concert du musicien
+Le programme du développeur
+Le logiciel du programmeur
+Le rapport du journaliste
+Le compte rendu du chroniqueur
+La recherche du scientifique
+L’expérience du chimiste
+La théorie du physicien
+Le modèle du statisticien
+La formule du mathématicien
+L'étude du sociologue
+L'analyse de l'expert
+Le diagnostic du médecin
+L'expertise du sapiteur
+Le calcul de l'astronome
+La démonstration du chercheur
+L'observation de l'éthologue
+La fouille de l'archéologue
+La traduction du linguiste
+L'interprétation du sémiologue
+La critique du chroniqueur
+Le plaidoyer de l'avocat
+Le réquisitoire du procureur
+La sentence du juge
+L'audit du comptable
+La soudure du métallurgiste
+La taille du tailleur de pierre
+La récolte du vigneron
+La tonte du berger
+Le pétrissage du boulanger
+La forge du maréchal-ferrant
+Le montage du mécanicien
+La pose de l'électricien
+Le traçage du charpentier
+Le polissage de l'ébéniste
+Le tissage de la mercière
+La couture du tailleur
+Le façonnage du potier
+La gravure de l'orfèvre
+Le sertissage du bijoutier
+L'entraînement de l'athlète
+Le dribble du footballeur
+Le service du tennisman
+La parade du gardien
+L'ascension du grimpeur
+La course du marathonien
+Le saut du cavalier
+La tactique de l'entraîneur
+L'arbitrage du juge de touche
+La mêlée du rugbyman
+Le swing du golfeur
+La glisse du skieur
+Le combat du boxeur
+L'esquive de l'escrimeur
+Le plongeon du champion
+La gestion du maire
+Le vote du député
+La négociation du diplomate
+La médiation du conciliateur
+L'enquête de l'inspecteur
+La patrouille du gendarme
+L'intervention du pompier
+La surveillance du gardien
+Le commandement du général
+La manœuvre du capitaine
+Le pilotage de l'aviateur
+La conduite du chauffeur
+La livraison du coursier
+Le service du serveur
+L'accueil de l'hôtesse
+Le projet de loi du ministre
+Le plan de vol du pilote
+Le rapport de stage de l'étudiant
+Le compte rendu de visite du délégué
+Le dessin de mode du styliste
+Le programme de recherche du labo
+L'expérience de physique du professeur
+Le manuscrit de poésie de l'écrivain
+La pièce de théâtre du collectif
+Le solo de guitare du musicien
+Le diagnostic de panne du technicien
+La plaidoirie de défense de l'avocat
+Le rapport d'activité du directeur
+Le logiciel de gestion du développeur
+Le croquis de travail de l'artiste
+Le massage du kiné
+La coiffure du visagiste
+Le soin de l'esthéticienne
+La préparation du cuisinier
+Le dressage de l'éducateur
+La mise en page du graphiste
+Le montage du cadreur
+Le mixage de l'ingénieur du son
+L'éclairage du régisseur
+La retouche du photographe
+Le conseil du consultant
+L'enseignement du maître
+La formation du tuteur
+L'animation du présentateur
+La prédiction du voyant
+La prêche du curé
+La méditation du moine
+L'incantation du mage
+Le tour du magicien
+La jonglerie du saltimbanque
+L'acrobatie du gymnaste
+La cascade du cascadeur
+Le doublage de la voix
+L'imitation de l'humoriste
+La caricature du dessinateur
+Le reportage du photographe
+L'interview de l'animateur
+La chronique du journaliste
+L'éditorial du rédacteur
+La mise en scène du directeur
+Le jeu de l'acteur
+La danse de la ballerine
+La chorégraphie du danseur
+Le chant de la cantatrice
+La composition du maestro
+L'arrangement du musicien
+L'orchestration du chef
+L'interprétation du soliste
+L'accompagnement du pianiste
+Le récital du violoniste
+L'improvisation du jazzman
+Le solo du batteur
+Le rythme du percussionniste
+La mélodie du flûtiste
+L'harmonie du chœur
+La rime du poète
+La métaphore de l'écrivain
+L'intrigue du romancier
+Le suspense du scénariste
+La narration du conteur
+La fable du moraliste
+L'essai du philosophe
+Le dialogue du dramaturge
+La réplique du comédien
+Le monologue de l'interprète
+La tirade du héros
+La gestuelle du mime
+La posture du modèle
+Le regard du peintre
+La touche de l'artiste
+Le coup de pinceau du maître
+L'esquisse de l'amateur
+Le croquis du paysagiste
+La gravure de l'illustrateur
+L'estampe de l'artisan
+La lithographie du graveur
+La sérigraphie de l'imprimeur
+La reliure du bibliophile
+La restauration du conservateur
+L'expertise du commissaire
+La vente de l'enchérisseur
+L'achat du collectionneur
+Le don du mécène
+Le prêt de l'emprunteur
+L'échange du troqueur
+Le commerce du marchand
+La vente du boutiquier
+L'étalage du forain
+La promotion du vendeur
+La publicité du publicitaire
+Le slogan du créatif
+L'annonce du crieur
+La rumeur du colporteur
+L'information du messager
+Le signal du veilleur
+L'alerte du guetteur
+La garde du sentinelle
+La ronde du surveillant
+L'escorte du garde
+La protection du garde du corps
+L'attaque de l'agresseur
+La défense du résistant
+La riposte du soldat
+La charge du cavalier
+La retraite de l'armée
+La victoire du vainqueur
+La défaite du vaincu
+Le sacrifice du martyr
+La trahison du traître
+Le complot du conspirateur
+La révolte du rebelle
+L'insurrection du peuple
+La grève de l'ouvrier
+La manifestation du militant
+Le discours de l'orateur
+La harangue du tribun
+Le prêche du prédicateur
+L'enseignement du professeur
+La leçon de l'instituteur
+La conférence du savant
+Le séminaire du chercheur
+La thèse du doctorant
+Le mémoire de l'étudiant
+L'examen du candidat
+La réponse de l'élève
+La question du curieux
+L'interrogation du policier
+L'aveu du coupable
+Le témoignage du témoin
+La déposition de la victime
+La plainte du plaignant
+Le constat de l'huissier
+L'acte du notaire
+Le contrat de l'avocat
+Le verdict du jury
+La condamnation du juge
+La grâce du souverain
+Le décret du président
+L'arrêté du préfet
+La circulaire du ministre
+La loi du législateur
+Le vote de l'électeur
+La pétition du citoyen
+Le recensement de l'agent
+La collecte du percepteur
+L'impôt du contribuable
+La subvention de l'état
+L'aide de l'association
+Le bénévolat du volontaire
+La mission de l'humanitaire
+Le secours du sauveteur
+Le soin de l'infirmier
+L'opération du chirurgien
+La prescription du docteur
+La délivrance du pharmacien
+La prothèse du dentiste
+La rééducation du kiné
+La cure du curiste
+Le régime du diététicien
+Le conseil du psychologue
+La thérapie du patient
+La guérison du malade
+L'agonie du mourant
+L'enterrement du fossoyeur
+La prière du fidèle
+Le pèlerinage du dévot
+Le jeûne du croyant
+La charité du donateur
+L'offrande du sacrificateur
+Le rite du prêtre
+Le dogme du théologien
+L'hérésie de l'apostat
+La prophétie du devin
+L'oracle de la sibylle
+Le sort de la sorcière
+La potion de l'alchimiste
+La découverte de l'inventeur
+Le brevet du génie
+La machine de l'ingénieur
+Le moteur du mécanicien
+Le circuit de l'électronicien
+Le code du programmeur
+Le bug du développeur
+Le virus du pirate
+La sécurité de l'expert
+Le réseau de l'administrateur
+La base du gestionnaire
+Le site du webmaster
+Le blog de l'influenceur
+Le post du blogueur
+Le tweet de l'internaute
+Le selfie du touriste
+La photo de l'amateur
+Le film du vidéaste
+Le podcast de l'animateur
+La radio de l'auditeur
+La télé du spectateur
+Le journal du lecteur
+L'article du pigiste
+Le scoop du reporter
+La une du rédacteur
+Le tirage de l'imprimeur
+La vente du libraire
+Le prêt du bibliothécaire
+La lecture de l'abonné
+L'étude du chercheur
+La note du secrétaire
+Le classement de l'archiviste
+Le courrier du facteur
+Le colis du livreur
+Le transport du routier
+Le vol du pilote
+La croisière du marin
+Le voyage du passager
+L'excursion du guide
+La visite du touriste
+Le séjour de l'hôte
+L'accueil du réceptionniste
+Le service du garçon
+La cuisine du chef
+Le plat du mitron
+Le pain du boulanger
+Le gâteau du pâtissier
+La viande du boucher
+Le légume du maraîcher
+Le fruit du fruiticulteur
+Le lait du crémier
+Le fromage du laitier
+L'œuf de la fermière
+Le poisson du pêcheur
+La chasse du nemrod
+Le bois du bûcheron
+La pierre du carrier
+Le fer du mineur
+L'or du chercheur
+Le pétrole du foreur
+Le gaz de l'exploitant
+L'eau du sourcier
+Le vin du sommelier
+La bière du brasseur
+Le café du torréfacteur
+Le thé du cueilleur
+Le sel du saunier
+Le sucre du planteur
+Le coton du récolteur
+La laine du tondeur
+La soie du sériciculteur
+Le cuir du tanneur
+Le tissu du tisserand
+L'habit du couturier
+La mode du styliste
+La parure du joaillier
+Le bijou de l'orfèvre
+La montre de l'horloger
+Le meuble de l'ébéniste
+La maison de l'architecte
+Le pont de l'ingénieur
+La route du terrassier
+Le tunnel du mineur
+Le barrage du bâtisseur
+Le stade de l'entrepreneur
+L'église du maçon
+Le château du seigneur
+Le palais du roi
+Le jardin du paysagiste
+La fleur du fleuriste
+L'arbre du sylviculteur
+Le champ du paysan
+La vigne du viticulteur
+Le bétail de l'éleveur
+Le troupeau du berger
+Le cheval du palefrenier
+Le chien du dresseur
+Le chat du propriétaire
+L'oiseau de l'oiseleur
+Le lion du dompteur
+L'éléphant du cornac
+Le singe de l'organiste
+L'ours du montreur
+Le rat du dératiseur
+La fourmi de l'entomologiste
+L'abeille de l'apiculteur
+Le ver de la terre
+Le microbe du biologiste
+La bactérie du savant
+Le virus du virologue
+La cellule du chercheur
+Le gène du généticien
+L'atome du physicien
+La planète de l'astronome
+L'étoile du cosmologue
+La comète de l'observateur
+Le soleil de la terre
+La lune du ciel
+La mer du marin
+Le vent du voilier
+La pluie de l'agriculteur
+La neige du skieur
+La glace du patineur
+Le feu du pyromane
+La fumée de l'incendie
+La cendre du volcan
+L'éclair de l'orage
+Le tonnerre du ciel
+La vague du surfeur
+Le courant du nageur
+La marée du littoral
+Le sable de l'enfant
+Le rocher du grimpeur
+La boue du marcheur
+La poussière du balayeur
+L'air du respirant
+Le vide de l'espace
+Le temps de l'horloge
+La lumière de l'ampoule
+L'obscurité de la nuit
+La couleur de la palette
+Le son de la musique
+Le silence de la pensée
+Le mot de la langue
+La phrase de l'auteur
+La page du lecteur
+Le livre de la bibliothèque
+L'idée du penseur
+Le rêve du dormeur
+La tristesse du malheureux
+La colère du fâché
+L'amour de l'amant
+La haine de l'ennemi
+La vie de l'existant
+La mort du défunt
+La fin du voyageur
+Le début du débutant

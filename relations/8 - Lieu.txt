@@ -1,0 +1,498 @@
+Le toit de la maison
+La salle de la mairie
+Le parc du château
+La porte de l’école
+Le jardin de l’hôtel
+La bibliothèque de l’université
+Le musée de la ville
+Le bureau de l’administration
+La cuisine de l’appartement
+La chambre de l’hôtel
+La terrasse de la villa
+Le balcon de l’immeuble
+Le stade de la ville
+La galerie du musée
+Le marché de la ville
+Le quai du port
+Le pont de la rivière
+La plage de la baie
+Le chemin de la forêt
+La route du village
+Le centre de la ville
+La place du marché
+Le jardin du palais
+Le hall de l’immeuble
+La salle du théâtre
+La chapelle du château
+Le cimetière de la commune
+Le hangar du port
+Le pavillon de l’université
+La cour de l’école
+Le hall de la gare
+Le parc du quartier
+La piscine de l’hôtel
+Le musée du quartier
+La bibliothèque du lycée
+Le laboratoire de l’université
+La salle de sport du campus
+Le théâtre du centre-ville
+Le bureau du directeur
+La cuisine de la cantine
+La salle du conseil
+Le jardin botanique de la ville
+Le toit du pavillon
+Le pont de la ville
+La promenade de la plage
+Le parc zoologique de la ville
+La salle de réunion de l’entreprise
+Le couloir de l’hôpital
+La salle d’attente de la gare
+Le hall de l’hôtel
+La bibliothèque du centre culturel
+Le jardin du monastère
+Le salon de l’hôtel
+La terrasse du café
+Le hall du cinéma
+La salle de classe de l’école
+La cour de l’université
+La place de l’église
+Le port de la ville
+La promenade du bord de mer
+Le pont du canal
+La gare de la ville
+La rue de la ville
+La salle de concert du théâtre
+Le parc du musée
+Le jardin du château
+La terrasse de la maison
+Le toit du bâtiment
+La cour du collège
+Le marché du village
+La salle du musée
+La bibliothèque de l’école
+Le port du village
+La salle de conférence du centre culturel
+La piscine du complexe sportif
+Le jardin public de la ville
+Le parc d’attractions de la ville
+La place du centre-ville
+Le parc du quartier historique
+Le toit de l’immeuble
+Le couloir de l’école
+La salle de sport de l’école
+Le marché couvert de la ville
+La salle de réception de l’hôtel
+La salle du musée d’art
+Le quai de la gare
+Le parc du centre-ville
+La promenade du parc
+La salle de spectacles du théâtre
+La bibliothèque municipale de la ville
+La cour de la mairie
+Le jardin du lycée
+La galerie d’art du musée
+La cuisine du restaurant
+Le hall de l’immeuble administratif
+Le toit de l’école
+Le jardin de l’hôpital
+La terrasse du restaurant
+Le pavillon du musée
+La salle de spectacle du centre culturel
+Le port du centre-ville
+Le marché de la gare
+La cour de l’hôtel
+La piscine municipale de la ville
+Le hall du musée
+La bibliothèque du quartier
+La salle de sport du lycée
+Le parc du complexe sportif
+La promenade de la ville
+Le pont de l’autoroute
+Le jardin de la mairie
+La terrasse du centre culturel
+Le hall de l’université
+La cour du château
+Le parc du campus
+La salle de réunion de l’école
+La piscine de l’hôtel de ville
+Le marché du centre-ville
+La salle de spectacle du théâtre municipal
+Le pont du centre-ville
+La galerie commerciale du centre-ville
+Le jardin du parc municipal
+La terrasse du café du centre-ville
+La bibliothèque municipale
+Le parc zoologique du quartier
+Le quai du port commercial
+La salle de réunion de la mairie
+Le marché couvert du quartier
+La piscine municipale
+La salle de concert du centre culturel
+Le jardin du complexe sportif
+La salle d’exposition du musée
+Le hall du théâtre
+Le parc du quartier résidentiel
+La salle de sport municipale
+La cour du musée
+Le toit de l’immeuble administratif
+La bibliothèque de la mairie
+La terrasse du parc
+La promenade du centre-ville
+La salle de conférence de l’université
+La galerie du centre commercial
+La salle de spectacle municipale
+Le parc du centre commercial
+La cour du centre culturel
+La salle de sport du centre sportif
+Le hall du collège
+Le port du quartier résidentiel
+Le parc de la ville haute
+La terrasse du musée
+Le jardin du centre-ville
+Le marché municipal
+La piscine du centre sportif
+La salle d’exposition municipale
+Le hall de la mairie
+Le pont du parc
+La cour de l’immeuble résidentiel
+La bibliothèque du quartier historique
+Le jardin public municipal
+La terrasse du hall
+Le parc du musée d’art
+La salle de concert municipale
+Le hall du centre commercial
+La galerie du musée municipal
+La piscine du centre-ville
+La salle de réunion municipale
+Le jardin botanique du centre-ville
+Le marché du centre commercial
+La cour du centre-ville
+La bibliothèque du musée
+La terrasse municipale
+Le parc du quartier administratif
+Le pont du quartier historique
+La salle de sport du centre-ville
+Le hall du parc municipal
+Le jardin du complexe culturel
+La bibliothèque du centre sportif
+La salle de concert du théâtre municipal
+La cour du centre commercial
+Le parc municipal du quartier
+La terrasse du centre commercial
+Le marché du centre culturel
+L'abri de l'arrêt de bus
+La fontaine de la place
+Le banc du square
+L'horloge de la tour
+Le réverbère de la rue
+La vitrine du magasin
+L'entrée du métro
+La rampe du parking
+Le guichet de la poste
+Le comptoir de la pharmacie
+La vitrine de la boulangerie
+L'étal du boucher
+La caisse du supermarché
+Le rayon du magasin
+La borne de la route
+Le trottoir de l'avenue
+Le sommet de la montagne
+Le versant de la colline
+La rive du lac
+Le lit de la rivière
+L'embouchure du fleuve
+La falaise du littoral
+Le sable de la plage
+L'ombre de la forêt
+La clairière du bois
+Le sentier de la lande
+La grotte de la falaise
+Le cratère du volcan
+La glace du glacier
+L'herbe de la prairie
+Le rocher du désert
+La source de la vallée
+Le récif de l'atoll
+La lagune de l'île
+La crête de la dune
+Le delta du fleuve
+La poignée de la porte
+Le volet de la fenêtre
+Le miroir de la salle de bain
+Le tapis du salon
+L'étagère de la chambre
+Le placard de la cuisine
+La baignoire de la salle d'eau
+Le lavabo des toilettes
+La cheminée du séjour
+Le carrelage du couloir
+La rampe de l'escalier
+Le grenier de la maison
+La cave du pavillon
+Le porche de l'entrée
+La clôture du jardin
+La pelouse de la cour
+Le muret de la propriété
+La sonnette du portail
+La boîte aux lettres de l'allée
+Le garage de la villa
+Le siège du train
+La tablette de l'avion
+Le volant de la voiture
+Le guidon du vélo
+Le mât du voilier
+Le pont du bateau
+La cabine du navire
+Le quai de la station
+Le hall de l'aéroport
+La piste de l'aérodrome
+Le wagon de la rame
+La soute du cargo
+Le cockpit de l'appareil
+Le phare de la jetée
+La bouée de la passe
+Le pupitre de la classe
+Le tableau de l'amphi
+Le bureau du labo
+Le rayon de la médiathèque
+Le chevalet de l'atelier
+La scène de l'opéra
+Les loges du théâtre
+La fosse de l'orchestre
+Le gradin du gymnase
+La piste du vélodrome
+Le ring du club
+Le tatami du dojo
+Le filet du court
+Le trou du green
+La cage du terrain
+Le lit de l'hôpital
+Le fauteuil du dentiste
+La paillasse du chercheur
+Le box de l'urgence
+Le comptoir de l'accueil
+Le banc du tribunal
+La barre du témoin
+Le box de l'accusé
+Le parloir de la prison
+La guérite du garde
+L'établi de l'atelier
+La chaîne de l'usine
+Le bureau de l'agence
+Le comptoir de la banque
+Le terminal du port
+La grue du chantier
+L'échafaudage du bâtiment
+La cuve de la raffinerie
+Le silo de la ferme
+La remise du jardinier
+Le toit de la niche du chien
+La porte du placard de la cuisine
+Le tiroir du bureau du directeur
+Le balcon de l'appartement du centre
+Le banc du parc de la ville
+La vitre de la fenêtre du salon
+Le pont de la rivière de la vallée
+Le sable de la plage de l'île
+Le hall de la gare de Lyon
+Le miroir de la salle de bain de l'hôtel
+Le clocher de l'église du village
+Le dôme de la basilique de la ville
+Le minaret de la mosquée du quartier
+Le parvis de la cathédrale de la cité
+Le confessionnal de la nef du temple
+Le bénitier de l'entrée de la chapelle
+L'autel du chœur de l'abbaye
+Le cloître du monastère de la colline
+Le réfectoire du couvent de la plaine
+Le dortoir de l'internat du lycée
+La buanderie du sous-sol de l'hôtel
+L'office de la cuisine du château
+La cave à vin du restaurant de luxe
+Le cellier de la ferme de campagne
+Le poulailler du fond du jardin
+L'écurie de la cour du domaine
+La grange du champ de blé
+Le potager de la maison de grand-mère
+La serre du parc de la mairie
+Le verger de la pente de la colline
+La ruche du bord de la forêt
+Le perchoir de la cage de l'oiseau
+La litière du coin de la pièce
+Le panier du salon de la villa
+L'aquarium du hall de l'immeuble
+La volière du jardin des plantes
+L'enclos du zoo de la ville
+Le bassin de la fontaine du square
+La margelle du puits du hameau
+Le lavoir du bas du village
+L'abreuvoir du pré du bétail
+La mangeoire de l'étable de la ferme
+Le râtelier de la bergerie du causse
+Le pigeonnier du toit du manoir
+La lucarne du grenier de la grange
+L'œil-de-bœuf de la façade de l'édifice
+La gargouille de la tour de l'église
+Le créneau du mur de la forteresse
+Le donjon du centre du fort
+Les douves du tour du château
+Le pont-levis de l'entrée du palais
+La herse de la porte de la cité
+Les remparts de la limite de la ville
+Le chemin de ronde de la muraille de pierre
+La meurtrière de la paroi du bastion
+Le souterrain de la base du monument
+L'oubliette du fond de la tour
+La crypte du dessous de la nef
+Le mausolée du milieu du cimetière
+La stèle de l'allée du repos
+Le caveau de la famille du défunt
+L'urne de la niche du columbarium
+Le registre du guichet de la mairie
+Le sceau du document de l'archive
+Le coffre de la banque de la rue
+Le distributeur du mur de l'agence
+La caisse du magasin de la galerie
+Le panier du client de l'étal
+La balance du boucher du marché
+Le billot de la découpe de la viande
+La chambre froide de la réserve du port
+Le quai de déchargement de l'entrepôt de la zone
+La rampe d'accès du garage de l'immeuble
+Le monte-charge du fond du bâtiment
+La cage d'escalier du bloc de l'HLM
+Le palier du troisième étage de la résidence
+L'interphone de la plaque de l'entrée
+Le judas de la porte de l'appartement
+Le verrou de la serrure du portail
+La gâche du chambranle de la baie
+Le linteau de l'ouverture du mur
+L'appui de la fenêtre de la chambre
+La jardinière du bord du balcon
+Le store de la terrasse du café
+Le parasol de la table de la piscine
+Le transat du bord de la plage
+La cabine de déshabillage du club de mer
+Le plongeoir du grand bassin du centre
+La ligne de nage de la piscine du complexe
+Le plot de départ du bord du bassin
+Le vestiaire de la salle de sport de l'école
+Le casier du couloir du gymnase
+Le banc du vestiaire du stade
+La douche du fond de la salle
+Le sauna du coin du spa
+Le hammam du centre de bien-être
+La salle de massage de l'institut de beauté
+Le miroir du salon de coiffure du quartier
+Le bac de lavage du bac à shampoing
+Le fauteuil de la salle d'attente du docteur
+La table d'examen du bureau du praticien
+Le stéthoscope de la blouse de l'infirmier
+La seringue du plateau de la clinique
+Le pansement de la plaie du patient
+Le plâtre de la jambe du blessé
+La béquille du côté du lit
+Le chariot de la pharmacie de l'étage
+La perfusion du bras du malade
+Le moniteur du chevet du service
+La morgue du sous-sol de l'hôpital
+Le laboratoire d'analyses de la rue de la Paix
+Le microscope de la paillasse de recherche
+L'éprouvette du rack de l'expérience
+Le bec bunsen de la paillasse de chimie
+La hotte aspirante du dessus du labo
+L'ordinateur du bureau du technicien
+Le serveur de la salle informatique de l'entreprise
+Le routeur de l'armoire de brassage du réseau
+L'antenne du toit du bâtiment administratif
+Le parabole du balcon du logement
+Le décodeur du dessous de la télé
+La télécommande du canapé du salon
+La lampe de la table de nuit
+Le réveil de l'étagère de la chambre
+Le livre de la table de chevet
+La lunette du bord du livre
+Le signet de la page de l'ouvrage
+La liseuse du coin de la bibliothèque
+Le fauteuil du coin du feu
+Le tisonnier du bord de l'âtre
+Le soufflet du crochet du foyer
+La bûche de la pile du bois
+Le chenet de la grille de la cheminée
+Le cendrier du guéridon du balcon
+La cigarette du bord de la coupelle
+Le briquet de la poche du veston
+Le mouchoir de la manche de la veste
+Le bouton de la manchette de la chemise
+La cravate du col de l'habit
+Le nœud papillon de l'encolure de la robe
+Le collier du cou de la dame
+La boucle d'oreille du lobe de l'oreille
+La bague du doigt de la main
+Le bracelet du poignet du bras
+La montre du bras du monsieur
+Le portefeuille de la poche du pantalon
+La monnaie du fond de la bourse
+Le ticket de la fente de l'automate
+La carte de la puce du lecteur
+Le code de la mémoire de la puce
+Le message de l'écran du mobile
+La notification de la barre de statut
+L'icône du bureau de l'ordinateur
+Le curseur du milieu de la page
+La fenêtre de l'application du système
+Le dossier de la racine du disque
+Le fichier de la liste du répertoire
+Le bug de la ligne du programme
+Le commentaire du bas du code
+La signature du bas de la lettre
+Le timbre du coin de l'enveloppe
+L'adresse du milieu du pli
+Le tampon de la surface du colis
+L'étiquette de la face de la boîte
+Le ruban de l'emballage du cadeau
+Le nœud du sommet du paquet
+La surprise du fond de la pochette
+Le rire de la bouche de l'enfant
+La larme de l'œil de la maman
+Le baiser de la joue du papa
+Le câlin du milieu du lit
+Le rêve de la tête du dormeur
+Le ronflement du nez du grand-père
+Le soupir de la poitrine de l'aïeul
+Le battement du cœur de l'oiseau
+Le frisson de la peau du nageur
+La sueur du front du coureur
+Le souffle de la bouche du chanteur
+La voix du fond de la gorge
+Le chant de la cime de l'arbre
+Le cri du milieu de la nuit
+Le silence du fond de la grotte
+L'obscurité de l'intérieur du tunnel
+La lumière du bout du couloir
+Le reflet de la surface du miroir
+L'image du fond de la lentille
+La couleur du pétale de la fleur
+Le parfum du cœur de la rose
+L'épine de la tige du rosier
+La sève du tronc de l'érable
+Le sucre du sirop du flacon
+Le goût de la langue du goûteur
+L'odeur de la narine du chien
+La trace de la patte du loup
+Le terrier du pied de la haie
+Le nid de la fourche de la branche
+La toile de l'angle du plafond
+L'araignée du centre de la toile
+La mouche du bord de la vitre
+Le moustique du tour de la lampe
+Le papillon de la fleur du champ
+L'abeille du calice de la tulipe
+Le miel de l'alvéole du rayon
+La cire de la paroi de la ruche
+Le venin de la poche du dard
+La peur de l'esprit de la proie
+La faim du ventre du prédateur
+La soif de la gorge du voyageur
+La fatigue des membres du marcheur
+Le repos de l'ombre du chêne

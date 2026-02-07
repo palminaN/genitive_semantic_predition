@@ -1,0 +1,500 @@
+L’article de mathématiques
+Le livre de géographie
+Le cours d'histoire
+Le traité de physique
+Le manuel de biologie
+La revue de sociologie
+Le documentaire d'astronomie
+Le reportage de guerre
+La conférence d'économie
+Le séminaire de philosophie
+La thèse de droit
+Le mémoire d'architecture
+L'essai de psychologie
+Le podcast de technologie
+La vidéo de vulgarisation
+La chronique de politique
+L'éditorial d'actualité
+Le bulletin de météo
+La brève de sport
+Le dossier de santé
+L'analyse de marché
+L'étude de cas
+Le rapport de stage
+L'expertise de sinistre
+Le diagnostic de panne
+Le bilan de compétences
+La critique de film
+La recension de livre
+L'audit de sécurité
+Le sondage d'opinion
+L'enquête de voisinage
+Le relevé de notes
+La fiche de lecture
+Le compte rendu de réunion
+Le procès-verbal d'audition
+Le roman d'aventure
+Le film de science-fiction
+La pièce de boulevard
+La poésie d'amour
+Le conte de fées
+La fable de morale
+La légende de chevalerie
+Le récit de voyage
+La biographie de star
+L'autobiographie d'artiste
+Le scénario de polar
+La bande dessinée de fantasy
+Le manga de combat
+La série de suspense
+La tragédie de vengeance
+Le code de déontologie
+La loi de finances
+Le règlement de copropriété
+Le décret de nomination
+L'arrêté de péril
+La clause de confidentialité
+Le contrat de mariage
+Le bail de location
+La charte d'éthique
+Le protocole de paix
+L'article de recherche de médecine
+Le livre de recettes de cuisine
+Le cours de soutien de maths
+La revue de presse de l'étranger
+Le film d'animation de Noël
+Le rapport de mission de l'ONU
+Le manuel de montage de l'armoire
+La conférence de presse du ministre
+L'étude de faisabilité du projet
+Le traité de non-prolifération de l'atome
+La leçon d'anatomie
+L'encyclopédie de la nature
+Le dictionnaire de français
+L'atlas de botanique
+Le guide de survie
+La notice de sécurité
+Le formulaire d'inscription
+Le questionnaire de satisfaction
+La liste de courses
+L'inventaire de succession
+Le catalogue de mode
+Le prospectus de publicité
+L'affiche de propagande
+Le tract de syndicat
+Le slogan de campagne
+Le message de bienvenue
+L'alerte de tempête
+La notification de message
+Le courriel de relance
+La lettre de motivation
+Le document de synthèse
+Le schéma de montage
+Le plan de quartier
+La carte de randonnée
+Le graphique de croissance
+Le tableau de bord
+La diapositive de présentation
+Le script de dialogue
+La partition de piano
+Le livret d'opéra
+La gazette du village
+Le journal de bord
+L'almanach de culture
+Le recueil de poèmes
+La somme de théologie
+Le précis de grammaire
+L'abrégé de l'histoire
+Les annales de concours
+Le cahier de doléances
+Le registre de doléances
+La pétition de principe
+Le plaidoyer de défense
+Le réquisitoire de condamnation
+La sentence de divorce
+L'avis de décès
+Le faire-part de naissance
+L'invitation de mariage
+Le carton de vernissage
+Le programme de concert
+Le synopsis de l'intrigue
+La fiche de paie
+Le bulletin de salaire
+L'attestation de résidence
+Le certificat de scolarité
+Le diplôme de mérite
+La licence de sport
+Le permis de conduire
+La carte de fidélité
+Le coupon de réduction
+Le ticket de caisse
+La leçon d'anglais
+Le cours de couture
+L'atelier de poterie
+Le stage de pilotage
+La formation d'hygiène
+L'exercice de style
+Le problème de logique
+La devinette de cour
+Le proverbe de sagesse
+La citation de auteur
+L'édit de tolérance
+La bulle de pape
+L'encyclique de foi
+Le dogme de l'église
+Le psaume de louange
+La sourate de prière
+Le verset de bible
+La parabole de semeur
+La prophétie de fin
+L'oracle de devin
+Le mythe de création
+La légende de Arthur
+Le folklore de région
+La rumeur de scandale
+Le secret de famille
+La confidence de ami
+La promesse de vente
+L'engagement de honneur
+Le vœu de pauvreté
+Le serment de fidélité
+L'étude de marché de l'immobilier
+Le bilan de santé du patient
+La revue de design de mobilier
+Le catalogue de pièces de rechange
+Le manuel d'entretien de la voiture
+Le guide de voyage de l'Italie
+La carte de visite de l'avocat
+Le plan de masse du bâtiment
+Le schéma de câblage de l'armoire
+Le dossier de presse de l'événement
+L'article de mode de l'été
+La chronique de cinéma de la semaine
+Le reportage de société de la chaîne
+Le documentaire de nature de la BBC
+Le livre de contes de mon enfance
+La leçon de morale de la fable
+Le poème de rupture de l'amant
+La chanson de geste de Roland
+Le roman de terroir de la Creuse
+La nouvelle de détective de Holmes
+L'analyse de sang du labo
+L'expertise de bijoux de l'expert
+Le diagnostic de sol du terrain
+La facture d'électricité de la maison
+Le contrat de travail de l'employé
+La police d'assurance de l'auto
+Le livret de famille de la fratrie
+L'acte de naissance de l'enfant
+Le titre de séjour de l'étranger
+Le passeport de service du diplomate
+L'abrégé de droit de l'étudiant
+La synthèse de chimie de l'élève
+Le précis de latin du professeur
+Le traité de paix de Versailles
+L'accord de cessez-le-feu de la zone
+Le protocole de Kyoto de l'écologie
+La charte de qualité de l'hôtel
+Le label de conformité de la norme
+Le visa de censure du film
+Le sceau de secret de l'état
+Le pamphlet de politique
+La satire de société
+L'homélie de prêtre
+L'éloge de défunt
+L'oraison de funérailles
+La harangue de tribun
+Le plaidoyer de cause
+La plaidoirie de avocat
+Le réquisitoire de procureur
+La sentence de condamnation
+L'avis de tempête de mer
+Le bulletin de santé de roi
+Le communiqué de presse de boîte
+L'annonce de vente de maison
+La notification de mise de demeure
+La sommation de huissier
+Le constat de accident de route
+Le rapport de police de crime
+L'enquête de moralité de suspect
+Le dossier de instruction de juge
+La critique de opéra de presse
+La chronique de gastronomie de guide
+L'article de jardinage de revue
+La rubrique de horoscope de journal
+Le courrier de lecteur de magazine
+La tribune de opinion de intellectuel
+Le billet de humeur de polémiste
+L'édito de rédacteur de chef
+Le reportage de terrain de envoyé
+Le scoop de journal de matin
+Le scénario de film de horreur
+L'intrigue de roman de espionnage
+Le suspense de série de télé
+Le thème de mémoire de fin
+Le sujet de thèse de doctorat
+La problématique de étude de impact
+L'hypothèse de recherche de chercheur
+Le résultat de expérience de chimie
+La conclusion de rapport de enquête
+Le résumé de texte de auteur
+Le catalogue de exposition de musée
+Le guide de visite de monument
+L'audioguide de parcours de art
+Le cartel de œuvre de peinture
+La légende de photo de presse
+Le générique de début de film
+Les sous-titres de version de original
+Le script de doublage de dessin
+La partition de orchestre de symphonie
+Le livret de CD de musique
+Le site de vente de en ligne
+Le portail de accès de réseau
+Le forum de aide de logiciel
+Le blog de cuisine de chef
+La page de profil de utilisateur
+Le flux de infos de actualité
+L'alerte de intrusion de système
+Le log de erreur de serveur
+Le code de source de programme
+Le readme de dossier de archive
+La notice de emploi de appareil
+Le mode de emploi de machine
+Les consignes de sécurité de usine
+Le plan de évacuation de hôtel
+La liste de invités de mariage
+Le menu de réveillon de Noël
+Le barème de notation de examen
+La grille de mots de croisés
+La solution de énigme de jeu
+La règle de grammaire de langue
+Le cours de yoga de soir
+La séance de gym de matin
+L'atelier de théâtre de enfant
+Le cours de dessin de nu
+Le stage de survie de forêt
+La leçon de piano de conservatoire
+L'entraînement de boxe de club
+Le match de foot de coupe
+La course de vélo de ville
+Le tournoi de poker de cercle
+La loi de programmation de armée
+Le décret de application de loi
+L'arrêté de circulation de rue
+Le règlement de examen de brevet
+La norme de isolation de maison
+Le label de bio de agriculture
+La certification de origine de vin
+Le brevet de invention de moteur
+La licence de logiciel de ordi
+Le copyright de image de auteur
+Le document de travail de équipe
+La feuille de route de projet
+Le rétroplanning de étape de chantier
+Le devis de travaux de maçon
+Le bon de commande de client
+Le bordereau de livraison de colis
+Le reçu de dépôt de dossier
+Le ticket de attente de guichet
+La facture de téléphone de mobile
+Le relevé de compte de banque
+La carte de géographie de classe
+L'atlas de astronomie de observatoire
+Le globe de monde de bureau
+La boussole de orientation de marche
+Le GPS de guidage de voiture
+L'annuaire de téléphone de pro
+Le carnet de adresses de contact
+L'agenda de ministre de état
+Le calendrier de fêtes de année
+Le semainier de tâches de maison
+Le dictionnaire de synonymes de langue
+Le thésaurus de mots de domaine
+La nomenclature de chimie de corps
+La classification de espèces de vivant
+Le manuel de droit de civil
+Le code de commerce de entreprise
+La constitution de république de France
+Le traité de économie de savant
+L'essai de politique de auteur
+La thèse de histoire de art
+Le roman de terroir de province
+La nouvelle de horreur de nuit
+Le polar de gare de trajet
+Le manga de sport de équipe
+La BD de humour de gamin
+Le film de action de espion
+Le documentaire de science de espace
+La série de drame de famille
+L'émission de jeu de télé
+Le podcast de crime de enquête
+La leçon de dessin de perspective
+Le cours de chant de chorale
+L'atelier de poterie de terre
+Le stage de voile de océan
+La formation de vente de pro
+L'exercice de maths de algèbre
+Le problème de physique de optique
+Le sujet de philo de bac
+La question de géo de quiz
+La fiche de révision de examen
+La parole de chanson de rap
+Le vers de poème de rime
+La strophe de ode de amour
+Le refrain de hymne de pays
+La mélodie de air de opéra
+Le script de vidéo de youtube
+Le thread de info de twitter
+Le post de réseau de social
+La story de photo de insta
+Le tiktok de danse de ado
+L'article de fond de revue
+Le dossier de enquête de mag
+La une de journal de bord
+Le flash de info de radio
+Le jt de soir de chaîne
+La dépêche de agence de presse
+La brève de journal de ville
+La rubrique de nécro de hebdo
+La petite annonce de emploi
+La publicité de voiture de marque
+L'étude de sol de géologue
+Le rapport de expert de assurance
+Le diagnostic de immo de vente
+Le test de produit de labo
+L'audit de usine de prod
+Le sondage de vote de élection
+L'enquête de police de meurtre
+Le procès de mafia de justice
+Le dossier de preuve de juge
+L'acte de accusation de greffe
+Le traité de paix de armistice
+L'accord de climat de sommet
+Le protocole de soin de hosto
+La règle de jeu de échecs
+Le code de route de permis
+La charte de déontologie de pro
+Le contrat de prêt de banque
+Le bail de immo de agence
+La loi de finances de état
+Le décret de urgence de pays
+Le catalogue de vente de enchères
+La liste de prix de menu
+Le tarif de hôtel de nuit
+Le barème de impôt de revenu
+La grille de salaire de boîte
+Le menu de resto de midi
+La carte de vins de sommelier
+Le prospectus de promo de super
+L'affiche de film de ciné
+Le flyer de soirée de club
+Le schéma de cœur de bio
+Le plan de métro de Paris
+La carte de ciel de astro
+Le graphique de bourse de krach
+Le tableau de éléments de Mendeleïev
+La figure de style de poésie
+La formule de chimie de corps
+L'équation de maths de inconnu
+Le théorème de géométrie de grec
+La loi de physique de Newton
+Le roman de gare
+Le polar de l'été
+Le livre de chevet
+Le film de minuit
+La série de l'année
+L'article de tête
+La une de demain
+Le scoop de l'info
+La nouvelle de la mort
+Le secret de la réussite
+Le manuel de bord
+La notice de montage
+Le guide de l'utilisateur
+Le mode de fonctionnement
+La règle de conduite
+Le code de procédure
+L'acte de propriété
+Le titre de transport
+Le billet de retour
+La carte de séjour
+Le dossier de presse
+Le rapport de synthèse
+La fiche de poste
+Le contrat d'assurance
+Le relevé d'identité
+La feuille de présence
+Le registre d'inscription
+La liste d'attente
+Le tableau d'honneur
+Le bulletin d'alerte
+Le cours de piano
+La leçon de morale
+L'atelier de théâtre
+Le stage de voile
+La séance de yoga
+Le match de barrage
+La course de fond
+Le tournoi de bridge
+La partie d'échecs
+Le jeu de piste
+Le thème de l'expo
+Le sujet du débat
+L'objet de la lettre
+Le motif du départ
+La cause de la panne
+La raison de la grève
+Le but de la visite
+L'enjeu de la lutte
+Le sens de la vie
+L'esprit de la loi
+Le récit de guerre
+La chronique de mœurs
+Le portrait de femme
+La scène de ménage
+Le dialogue de sourds
+La dispute de famille
+Le complot de palais
+La rumeur de ville
+Le bruit de couloir
+La nouvelle de bourse
+L'article de fond
+Le billet de blog
+La page de garde
+Le titre de gloire
+Le nom de scène
+Le cri de ralliement
+Le mot de passe
+Le code de accès
+Le lien de téléchargement
+Le flux de données
+La base de connaissances
+Le réseau de contacts
+L'annuaire de services
+Le guide de sorties
+Le carnet de voyages
+L'atlas de poche
+La carte de crédit
+Le chèque de voyage
+Le bon de caisse
+La facture de eau
+Le traité de astronomie de Galilée
+Le roman de espionnage de Le Carré
+Le film de animation de Pixar
+Le manuel de français de Hatier
+Le cours de histoire de Michelet
+La chanson de geste de épopée
+Le poème de amour de Eluard
+L'essai de philo de Sartre
+La thèse de bio de chercheur
+Le rapport de enquête de police
+Le document de identité de passager
+La carte de visite de agent
+Le plan de ville de Lyon
+Le menu de fête de traiteur
+La liste de mariage de couple
+Le règlement de concours de école
+La charte de éthique de boîte
+Le contrat de vente de immo
+La loi de finances de état
+Le secret de polichinelle de ville

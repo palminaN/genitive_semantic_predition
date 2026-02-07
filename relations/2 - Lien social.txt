@@ -1,0 +1,500 @@
+Le père de Paul  
+La mère de Sophie  
+Le frère de Julie  
+La sœur de Martin  
+Le fils de Clara  
+La fille de Thomas  
+L’oncle de David  
+La tante de Louise  
+Le cousin de Maxime  
+La cousine d’Élise  
+Le grand-père de Hugo  
+La grand-mère d’Emma  
+Le beau-père de Lucas  
+La belle-mère de Chloé  
+Le beau-frère de Nina  
+La belle-sœur d’Arthur  
+Le gendre de Mireille  
+La bru de Gérard  
+Le parrain de Camille  
+La marraine de Léo  
+L'arrière-grand-père de Jules
+La petite-nièce de Sarah
+Le cousin germain de Robert
+La filleule de Claire
+Le fils adoptif de Pierre
+La mère porteuse de l'enfant
+Le tuteur légal de Mathis  
+La tutrice légale d’Inès  
+Le patriarche de la famille
+L'ancêtre de la lignée
+Le compagnon de Sarah  
+La compagne de Julien  
+Le mari d’Amandine  
+La femme de Pierre  
+Le fiancé de Manon  
+La fiancée d’Alexandre  
+Le partenaire de Jade  
+La conjointe de Rémi  
+Le conjoint d’Aurore  
+L'amant de la reine
+La maîtresse du roi
+Le prétendant de la princesse
+L'ex-mari de Valérie
+La future épouse de Marc
+Le cavalier de la débutante
+Le chef de Lionel  
+La cheffe de Marion  
+Le supérieur de Nadia  
+La supérieure d’Olivier  
+Le patron de Karine  
+La patronne de Benoît  
+Le collègue de Victor  
+La collègue d’Anna  
+Le mentor de Raphaël  
+La protégée de Damien  
+Le protégé de Laura  
+Le collaborateur de Didier  
+La collaboratrice de Brice  
+Le superviseur de Lison  
+La superviseuse de Patrick  
+Le maître d’apprentissage d’Adèle  
+La maîtresse d’apprentissage de Kévin  
+L'adjoint du directeur
+Le remplaçant du comptable
+L'apprenti du boulanger
+Le stagiaire de la rédaction
+Le bras droit du ministre
+Le chauffeur du PDG
+La secrétaire de l'avocat
+Le successeur du fondateur
+Le camarade de Samuel  
+La camarade d’Émile  
+La partenaire d’étude de Noah  
+Le binôme de Léa  
+La binôme de Simon  
+Le mentor académique de Florent  
+La marraine académique d’Aline  
+Le protégé académique d’Etienne  
+La protégée académique d’Hector  
+L'élève du professeur
+Le disciple du maître
+Le thésard du chercheur
+Le doyen de la faculté
+Le tuteur du boursier
+La promo de Jean
+L’ami de Zoé  
+L’amie de Quentin  
+Le voisin de Baptiste  
+La voisine de Clara  
+Le colocataire de Robin  
+La colocataire de Salomé  
+Le concierge de l'immeuble
+L'habitué du café
+Le client du boucher
+Le facteur du quartier
+Le témoin du mariage
+L'invité d'honneur
+L'hôte de la soirée
+Le correspondant de guerre
+Le contact du réseau
+Le coéquipier de Maël  
+La coéquipière d’Axelle  
+Le capitaine de Gaël  
+La capitaine d’Élina  
+L'entraîneur du champion
+Le sélectionneur de l'équipe
+L'adversaire du boxeur
+Le partenaire de double
+Le remplaçant du gardien
+Le supporter du club
+L'arbitre de la rencontre
+Le barreur de l'équipage
+Le soigneur du boxeur
+L'équipier du voilier
+Le meneur du peloton
+Le commandant de Romain  
+La commandante de Sacha  
+Le référent de Lucas  
+La référente de Maud  
+Le protecteur de Mireille  
+La protectrice de Damien  
+Le tuteur légal d’Arthur  
+La tutrice légale de Mélanie  
+Le bourreau de la victime
+L'avocat de l'accusé
+Le tuteur du mineur
+Le sergent de la troupe
+L'ordonnance du général
+L'aumônier du régiment
+L'otage des ravisseurs
+Le compagnon artistique de Carla  
+La partenaire artistique de Hugo  
+Le binôme scientifique d’Élise  
+La binôme scientifique de Louis  
+La muse du peintre
+L'impresario de la diva
+Le mécène de l'artiste
+La doublure de l'acteur
+Le chorégraphe de la troupe
+Le chef du chœur
+Le premier violon de l'orchestre
+L'éditeur de l'écrivain
+Le traducteur du romancier
+L'agent de la star
+Le public de l'humoriste
+Le fidèle de la paroisse
+Le disciple du gourou
+L'apôtre du Christ
+Le successeur du prophète
+Le confesseur de la reine
+Le novice du couvent
+Le supérieur du monastère
+Le paroissien du curé
+Le guide spirituel du pèlerin
+Le parrain de baptême
+Le fils de l'ami de mon père
+La femme du patron de l'usine
+Le cousin du mari de ma sœur
+L'avocat du frère de la victime
+Le chauffeur du ministre de l'Intérieur
+L'entraîneur de l'équipe de France
+La secrétaire du doyen de la faculté
+Le témoin du mariage de mon cousin
+Le successeur du directeur de la banque
+Le mentor du gagnant de la course
+La veuve du héros de la guerre
+L'adjoint du maire de la ville
+Le porte-parole du président de la République
+Le complice de l'assassin du juge
+Le petit-fils de l'inventeur de la machine
+L'arrière-grand-mère d'Emma
+Le petit-fils de Clara
+La petite-fille de Thomas
+Le neveu de David
+La nièce de Louise
+L'oncle à la mode de Bretagne de Maxime
+La tante par alliance d'Élise
+Le cousin éloigné de Hugo
+La cousine germaine d'Emma
+Le patriarche du clan
+La matriarche de la famille
+L'aîné de la fratrie
+Le cadet de la famille
+Le benjamin de la lignée
+Le jumeau de Lucas
+La jumelle de Chloé
+Le fils naturel de l'artiste
+La fille légitime du roi
+L'héritier du baron
+La descendance de l'empereur
+L'associé de Pierre
+La partenaire de bureau de Sonia
+Le subordonné de Didier
+La subordonnée de Brice
+L'homologue de l'ambassadeur
+Le prédécesseur du maire
+Le successeur du préfet
+L'intérimaire du secrétariat
+Le consultant de la firme
+L'auditeur du cabinet
+Le prestataire du client
+Le fournisseur de l'entreprise
+Le sous-traitant du chantier
+Le contremaître de l'usine
+L'apprenti du maréchal-ferrant
+Le commis du chef
+La gouvernante de la maison
+Le majordome du comte
+Le valet de chambre du prince
+La dame de compagnie de la marquise
+Le tuteur de l'orphelin
+La curatrice du majeur protégé
+Le mandataire du défunt
+L'exécuteur testamentaire du notaire
+Le créancier du débiteur
+Le garant de l'emprunteur
+Le cautionnaire du locataire
+L'ayant droit de la victime
+Le défenseur de l'accusé
+Le procureur de la République
+Le plaignant du procès
+Le témoin oculaire du crime
+Le complice du voleur
+Le receleur du gang
+L'avoué de la famille
+Le confident de Sarah
+La confidente de Julien
+L'âme sœur d'Amandine
+Le compagnon d'infortune de Pierre
+La meilleure amie de Manon
+Le petit ami d'Alexandre
+La petite amie de Jade
+Le flirt de l'été de Rémi
+L'ami d'enfance d'Aurore
+Le correspondant de l'étudiant
+Le parrain de promo de Mathis
+La marraine de cœur d'Inès
+Le mentor spirituel de Raphaël
+La protégée du mécène
+Le protégé du parrain
+L'équipier de Maël
+La partenaire de tennis d'Axelle
+Le coach de Gaël
+La sélectionneuse d'Élina
+Le soigneur du cycliste
+Le porteur d'eau du leader
+Le sparring-partner du champion
+Le jockey du propriétaire
+Le driver du trotteur
+Le manager de l'athlète
+Le sponsor du coureur
+L'agent de joueurs de football
+Le président du club
+Le trésorier de l'association
+Le secrétaire du comité
+Le fidèle de l'église
+Le ouailles du pasteur
+Le disciple de l'apôtre
+Le suivant du gourou
+Le novice du monastère
+La prieure du couvent
+L'abbé de la congrégation
+Le confesseur de la pénitente
+Le parrain de baptême de Léo
+La marraine de confirmation de Zoé
+Le grand rabbin de la communauté
+L'imam de la ville
+Le prêcheur de la foule
+Le missionnaire du diocèse
+Le pèlerin de Saint-Jacques
+Le concitoyen du député
+L'administré du maire
+Le ressortissant du pays
+L'expatrié de la capitale
+Le voisin de palier de Baptiste
+Le copropriétaire de l'immeuble
+Le syndic de la résidence
+Le gardien de la cité
+Le médiateur du quartier
+Le bénévole de l'association
+L'adhérent du parti
+Le militant de la cause
+Le sympathisant du mouvement
+Le porte-parole du collectif
+Le délégué de classe
+Le biographe de l'écrivain
+Le traducteur du poète
+L'illustrateur du romancier
+Le compositeur de la chanteuse
+Le parolier du musicien
+Le chorégraphe de la ballerine
+Le metteur en scène de l'acteur
+La doublure de la star
+Le cascadeur du héros
+L'impresario du ténor
+Le conservateur du musée
+Le commissaire de l'exposition
+Le critique d'art du peintre
+Le collectionneur de l'artiste
+Le mécène de l'opéra
+Le compagnon de voyage d'Ulysse
+Le passager du conducteur
+Le co-pilote de l'aviateur
+L'équipage du capitaine
+Le guide du touriste
+L'interprète de l'explorateur
+Le passeur du fugitif
+L'hôte de l'étranger
+Le compagnon de cellule du prisonnier
+Le bagnard du garde
+Le fils de la voisine de palier
+La mère du meilleur ami de Jules
+Le frère du patron de mon père
+La sœur de la fiancée de Paul
+Le fils de la collègue de bureau
+La fille du concierge de l'immeuble
+L'oncle du mari de ma tante
+La tante de la femme de mon cousin
+Le cousin du gendre de Mireille
+La cousine de la bru de Gérard
+Le grand-père du parrain de Camille
+La grand-mère de la marraine de Léo
+Le beau-père du compagnon de Sarah
+La belle-mère de la compagne de Julien
+Le beau-frère du mari d'Amandine
+La belle-sœur de la femme de Pierre
+Le gendre du tuteur de Mathis
+La bru de la tutrice d'Inès
+Le parrain du mentor de Raphaël
+La marraine de la protégée de Damien
+Le compagnon de la cheffe de Marion
+La compagne du supérieur de Nadia
+Le mari de la supérieure d'Olivier
+La femme du patron de Karine
+Le fiancé de la patronne de Benoît
+La fiancée du collègue de Victor
+Le partenaire de la collègue d'Anna
+La conjointe du camarade de Samuel
+Le conjoint de la camarade d'Émile
+Le tuteur de l'ami de Zoé
+La tutrice de l'amie de Quentin
+Le mentor du compagnon de route d'Estelle
+La protégée de la partenaire d'étude de Noah
+Le protégé du binôme de Léa
+La cheffe de la binôme de Simon
+Le supérieur du coéquipier de Maël
+La supérieure de la coéquipière d'Axelle
+Le patron du voisin de Baptiste
+La patronne de la voisine de Clara
+Le collègue du colocataire de Robin
+Le vassal du seigneur
+Le suzerain du chevalier
+L'écuyer du maître
+Le page du vicomte
+Le héraut du roi
+Le bouffon de la cour
+Le favori de la favorite
+Le régent du royaume
+Le dauphin du souverain
+Le courtisan du monarque
+Le répétiteur de l'élève
+Le correcteur du candidat
+L'examinateur de l'étudiant
+Le maître d'école des enfants
+L'instituteur de la classe
+Le proviseur du lycée
+Le principal du collège
+Le recteur de l'académie
+Le chancelier de l'université
+Le doyen des professeurs
+Le médecin du patient
+L'infirmier du malade
+Le chirurgien de l'opéré
+Le kiné du sportif
+Le psy du client
+L'aide-soignante du vieillard
+L'auxiliaire de vie du handicapé
+Le soignant de la victime
+Le dentiste de la famille
+Le pharmacien du quartier
+Le boucher de la ménagère
+Le boulanger du village
+Le coiffeur de la mariée
+Le tailleur du marié
+Le garagiste de l'automobiliste
+Le banquier de l'épargnant
+L'assureur du conducteur
+Le notaire de l'acheteur
+L'agent immobilier du vendeur
+Le courtier de l'investisseur
+L'intervieweur de la star
+Le rédacteur du journaliste
+L'imprimeur de l'éditeur
+Le lecteur de l'auteur
+L'auditeur de l'animateur
+Le téléspectateur du présentateur
+L'abonné du magazine
+Le fan de l'idole
+Le follower de l'influenceur
+Le modérateur du forum
+L'ennemi juré du héros
+Le rival de l'amant
+L'adversaire de l'escrimeur
+Le détracteur du ministre
+L'opposant du dictateur
+Le ravisseur de l'enfant
+Le geôlier du captif
+Le bourreau du condamné
+Le persécuteur du saint
+L'agresseur du passant
+Le garde du corps de la célébrité
+La vigile du magasin
+Le veilleur de nuit de l'hôtel
+Le sauveteur du baigneur
+Le parrain des alcooliques anonymes
+L'assistante sociale de la famille
+L'éducateur du jeune
+Le bienfaiteur de l'orphelinat
+Le sponsor de l'événement
+Le garant de la paix
+Le directeur de thèse du doctorant
+Le chercheur du laboratoire
+Le cobaye du scientifique
+L'assistant de l'ingénieur
+Le collaborateur du physicien
+L'inventeur de la solution
+Le découvreur de la comète
+L'astronome de l'observatoire
+Le botaniste du jardin
+L'archéologue du site
+Le frère d'armes du soldat
+L'éclaireur de la section
+Le tireur d'élite du régiment
+Le sergent de la section
+Le lieutenant de la compagnie
+Le colonel du bataillon
+Le général de l'armée
+L'amiral de la flotte
+Le pilote de l'escadrille
+Le parachutiste du commando
+Le covoitureur de Pierre
+Le colocataire de vacances
+Le partenaire de jeu vidéo
+Le membre du groupe Facebook
+L'administrateur du serveur Discord
+Le donateur de l'ONG
+Le parrain de l'enfant du tiers-monde
+Le correspondant de prison
+Le visiteur de malade
+L'écrivain public du village
+Le webmaster du site
+Le graphiste de l'agence
+Le community manager de la marque
+Le data scientist de l'équipe
+Le développeur du projet
+L'utilisateur du logiciel
+Le client du service après-vente
+Le technicien de la fibre
+L'installateur de l'alarme
+Le livreur de pizza
+Le chauffeur de taxi
+Le pilote de ligne
+L'hôtesse de l'air
+Le steward du train
+Le contrôleur du bus
+Le marin du remorqueur
+Le docker du port
+Le douanier de la frontière
+Le garde-frontière de l'espace Schengen
+Le diplomate de l'ONU
+L'ambassadeur de France
+Le consul de la ville
+L'attaché de presse du ministère
+Le conseiller de l'Élysée
+Le garde républicain du palais
+Le gendarme de la brigade
+Le policier du commissariat
+L'inspecteur de la PJ
+Le commissaire de police
+Le préfet de région
+Le maire de la commune
+L'adjoint aux finances
+Le conseiller municipal
+Le député de la circonscription
+Le sénateur du département
+Le ministre du gouvernement
+Le secrétaire d'État
+Le porte-parole du gouvernement
+Le chef de cabinet
+Le directeur de cabinet
+Le chef de l'opposition
+Le leader du parti
+Le militant de base
+Le sympathisant actif
+L'électeur de la commune
+Le citoyen de la république
+Le patriote du pays
+Le résistant de l'ombre
+Le collaborateur de l'occupant
+Le libérateur de la ville

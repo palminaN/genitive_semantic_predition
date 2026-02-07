@@ -1,0 +1,500 @@
+Le retard de la circulation
+Les dégâts de la tempête
+La perte de la récolte
+L’effondrement du pont
+La chute des prix
+Le manque de vigilance
+La fermeture de l’usine
+L’explosion de la chaudière
+La pénurie de carburant
+Le bruit de la construction
+La faillite de l’entreprise
+Le ralentissement de l’économie
+L’inondation de la ville
+Le retard de livraison
+La dégradation de la route
+La hausse des impôts
+Le défaut de paiement
+L’accident de la route
+La pollution de la rivière
+Le blocage de la route
+La saturation du réseau
+Le stress du personnel
+La panne de courant
+La destruction de la maison
+L’échec de la mission
+Le déclenchement de l’alarme
+La perte de données
+La contamination de l’eau
+Le retard de l’avion
+La chute des actions
+La fermeture du pont
+Le vol des marchandises
+La rupture du contrat
+L’arrêt de la production
+La démission du directeur
+La surcharge de travail
+Le débordement du fleuve
+La chute de température
+La congestion du trafic
+Le surendettement des ménages
+La fuite de gaz
+L’effondrement de la toiture
+La détérioration du matériel
+La destruction du véhicule
+La panne du moteur
+Le retard des paiements
+La pénurie de médicaments
+La contamination des sols
+Le blocage des communications
+La perte d’influence
+La faillite du magasin
+La dégradation de l’environnement
+La chute des feuilles
+La saturation des serveurs
+La pénurie de matières premières
+La destruction de la forêt
+La panne du système
+Le retard de traitement
+La fermeture de la frontière
+La surcharge électrique
+La perte de biodiversité
+La dégradation du climat
+La chute de la bourse
+La contamination de l’air
+Le blocage des négociations
+La faillite de la compagnie
+Le retard du courrier
+La panne de la machine
+La fermeture de la route
+La surcharge des hôpitaux
+La perte de clients
+La dégradation de la santé
+La chute de neige
+La saturation de la mémoire
+La pénurie de logements
+La destruction du mobilier
+La panne de réseau
+Le retard de croissance
+La fermeture du centre
+La surcharge pondérale
+La perte de vitesse
+La dégradation de l’image
+La chute de pression
+La contamination alimentaire
+Le blocage des fonds
+La faillite du projet
+Le retard de paiement
+La panne d’ascenseur
+La fermeture des bureaux
+La surcharge calorique
+La perte de temps
+La dégradation thermique
+La chute de cheveux
+La saturation du marché
+La pénurie d’eau
+La destruction d’archives
+La panne informatique
+Le retard mental
+La fermeture saisonnière
+La surcharge émotionnelle
+La fonte des glaciers
+La montée des eaux
+L'érosion du littoral
+La sécheresse du sol
+L'assèchement du puits
+Le lessivage des terres
+L'ensablement du port
+Le déracinement de l'arbre
+La fragilisation de la falaise
+La sédimentation du lac
+Le réchauffement de l'océan
+L'acidification des mers
+Le blanchiment du corail
+La désertification de la zone
+L'incendie de la forêt
+L'inflation des prix
+La dévaluation de la monnaie
+L'endettement de l'État
+La récession de la croissance
+Le krach de la bourse
+La précarité du travail
+Le chômage de masse
+La paupérisation de la classe
+Le déficit de la balance
+La volatilité du marché
+La spéculation du foncier
+La concentration des richesses
+La banqueroute de la ville
+L'insolvabilité du client
+La baisse du pouvoir d'achat
+L'usure de la pièce
+La surchauffe du processeur
+La corrosion du métal
+La rupture de la courroie
+Le grippage du roulement
+La fuite du liquide
+Le court-circuit du boîtier
+La décharge de la batterie
+Le voile de la jante
+La fissure de la coque
+L'obstruction du tuyau
+Le dérèglement du capteur
+La distorsion du son
+Le scintillement de l'image
+La latence du signal
+La fatigue du cœur
+L'inflammation du tendon
+L'atrophie du muscle
+La mutation du virus
+La résistance de la bactérie
+La nécrose du tissu
+L'essoufflement de l'effort
+La paralysie du nerf
+La cécité du regard
+La surdité du tympan
+L'éruption de la peau
+La démangeaison de la piqûre
+La cicatrice de la coupure
+Le traumatisme du choc
+L'épuisement de la veille
+La colère du peuple
+La méfiance de l'opinion
+La radicalisation du groupe
+L'exode de la population
+La ségrégation du quartier
+Le mépris de l'élite
+La révolte de la base
+L'instabilité du régime
+La chute du gouvernement
+La scission du parti
+L'isolement du leader
+La disgrâce du ministre
+La contestation de la loi
+Le boycott de la marque
+La stigmatisation du minoritaire
+Le retard de livraison de la commande
+La baisse de pression du circuit
+La perte de confiance des investisseurs
+La dégradation de l'état de la route
+La hausse du prix de l'essence
+La chute de la toiture de la grange
+La saturation du réseau de téléphonie
+Le blocage de l'accès du parking
+La rupture du lien de parenté
+L'échec du lancement de la fusée
+La fuite de données de l'entreprise
+La panne de moteur de l'avion
+L'arrêt de production de l'usine
+La démission du chef de service
+Le manque de moyens de l'école
+L'obstination de l'âne
+La fureur de l'orage
+L'obscurité de l'éclipse
+Le froid de l'hiver
+La sueur de l'angoisse
+Le tremblement de la peur
+La rougeur de la honte
+Le sourire de la joie
+Le cri de la douleur
+Le silence de la mort
+La cendre de l'incendie
+La boue de l'inondation
+L'odeur de la fumée
+Le goût de la victoire
+Le parfum de la rose
+Le piquant du piment
+L'amertume du regret
+La douceur du miel
+La dureté du diamant
+La souplesse du cuir
+La fragilité du verre
+La transparence de l'eau
+La brillance de l'or
+La matité du charbon
+La rugosité de la pierre
+La clarté de l'explication
+La confusion de l'esprit
+L'absurdité de la situation
+La logique de l'argument
+La force de l'habitude
+La fatigue du voyage
+La soif du désert
+La faim de l'effort
+Le sommeil de l'ennui
+L'ivresse du succès
+La gueule de bois de la fête
+La migraine du bruit
+L'allergie du pollen
+La nausée du mal de mer
+Le vertige des hauteurs
+L'éblouissement du soleil
+L'asphyxie du gaz
+L'intoxication du poison
+La brûlure du feu
+La morsure du froid
+L'engourdissement de la jambe
+La crampe du mollet
+La courbature du sport
+L'entorse de la cheville
+La fracture de l'os
+La fêlure de la tasse
+La déchirure du tissu
+La tache du vin
+La rayure de la carrosserie
+La bosse de l'impact
+Le trou de la balle
+L'entaille du couteau
+La marque du fouet
+L'empreinte du pied
+La trace de la patte
+Le résidu du filtre
+Le dépôt de la poussière
+La rouille du fer
+Le tartre des dents
+La moisissure du pain
+Le pourrissement du fruit
+La fermentation du jus
+La coagulation du sang
+La cristallisation du sucre
+L'évaporation de l'alcool
+La condensation de la vitre
+La fusion de la glace
+La solidification du lave
+La sublimation de l'iode
+L'ionisation de l'air
+La radioactivité de l'uranium
+Le rayonnement du soleil
+L'ombre de la lune
+La réflexion du miroir
+La réfraction de la loupe
+La diffraction de la fente
+L'interférence des ondes
+La résonance du violon
+L'écho de la montagne
+Le grondement du tonnerre
+Le sifflement du serpent
+Le miaulement du chat
+L'aboiement du chien
+Le hennissement du cheval
+Le mugissement du taureau
+Le bêlement du mouton
+Le caquetage de la poule
+Le roucoulement du pigeon
+Le pépiement de l'oiseau
+Le bourdonnement de l'abeille
+Le stridulation du grillon
+Le craquement du parquet
+Le grincement de la charnière
+Le clapotis de l'eau
+Le bruissement des feuilles
+Le souffle du vent
+Le fracas de la chute
+Le battement du cœur
+La pulsation de l'artère
+Le clignotement de l'œil
+La vibration de la corde
+L'oscillation du pendule
+La rotation de la roue
+La translation du piston
+La propulsion de la fusée
+L'attraction de l'aimant
+La répulsion des charges
+La gravitation de la terre
+L'inertie de la masse
+La pression de l'air
+La tension du câble
+La compression du ressort
+La torsion de la tige
+La flexion de la poutre
+Le cisaillement de la plaque
+La dilation du métal
+La contraction du muscle
+La sécrétion de la glande
+L'excrétion du rein
+La digestion du repas
+La respiration de l'air
+La circulation du sang
+La cognition de l'esprit
+La perception du sens
+La mémorisation de l'info
+L'apprentissage du métier
+L'oubli du nom
+Le rappel du souvenir
+L'imagination du futur
+La réflexion du penseur
+Le raisonnement de l'expert
+Le jugement du magistrat
+La décision du chef
+L'exécution de l'ordre
+Le suivi du dossier
+Le contrôle de la tâche
+L'évaluation du résultat
+La correction de l'erreur
+L'amélioration de la qualité
+L'innovation du chercheur
+La création de l'artiste
+La production de l'usine
+La distribution du produit
+La vente du marchand
+L'achat du client
+La consommation de l'usager
+La satisfaction du besoin
+Le plaisir de la fête
+La joie du succès
+La fierté de l'œuvre
+La gloire du héros
+L'honneur de la patrie
+La dignité de l'homme
+Le respect de la loi
+La tolérance de l'autre
+La solidarité du groupe
+L'amitié du voisin
+L'amour du couple
+La tendresse de la mère
+La passion de l'amant
+La haine de l'ennemi
+La peur de l'inconnu
+La colère de l'injustice
+La tristesse du deuil
+Le regret de la faute
+Le remords du crime
+La honte de la trahison
+L'envie du rival
+La jalousie de l'époux
+L'ambition du politicien
+La soif de pouvoir
+L'avarice du riche
+La cupidité du voleur
+La paresse du fainéant
+La gourmandise du chef
+L'orgueil du noble
+La luxure du débauché
+La patience du sage
+Le courage du soldat
+La prudence du conducteur
+La tempérance du moine
+La justice du roi
+La sagesse du vieillard
+L'intelligence du savant
+La créativité du génie
+La curiosité de l'enfant
+La naïveté de l'ingénu
+La ruse du renard
+La force du lion
+La rapidité du guépard
+La lenteur de la tortue
+La légèreté de la plume
+La lourdeur du plomb
+La chaleur du feu
+La froideur de la glace
+L'humidité de la pluie
+La sécheresse du désert
+La luminosité de l'étoile
+L'obscurité de la cave
+La transparence de l'air
+L'opacité du mur
+La dureté de l'acier
+La mollesse de la pâte
+La rugosité du bois
+La douceur de la soie
+L'amertume du café
+Le sucré du miel
+Le salé de la mer
+L'acide du citron
+Le piquant du poivre
+Le fade de l'eau
+L'odeur du pain
+La puanteur du rat
+Le parfum de la fleur
+Le vacarme de l'usine
+Le murmure du ruisseau
+Le chant de l'oiseau
+La couleur du ciel
+La forme du nuage
+La texture du sol
+La saveur du fruit
+L'arôme du vin
+Le timbre de la voix
+Le rythme de la danse
+La mélodie de la flûte
+L'harmonie du chœur
+La structure de l'atome
+La composition de la roche
+La topographie du terrain
+La géométrie de la figure
+L'algèbre de la formule
+La grammaire de la phrase
+La syntaxe du code
+La logique du système
+La morale de la fable
+Le dogme de la foi
+Le rite de la religion
+La coutume du peuple
+La tradition de la famille
+La mode de l'époque
+Le style de l'artiste
+La technique de l'artisan
+La méthode du chercheur
+La stratégie du général
+La tactique du joueur
+La règle du jeu
+Le principe de la loi
+La valeur de la monnaie
+Le prix de la chose
+Le coût de la vie
+Le poids de la charge
+La taille de l'objet
+La durée de la tâche
+La distance de la route
+La vitesse de la course
+L'accélération du moteur
+La force de l'impact
+L'énergie du soleil
+La puissance du courant
+Le travail de la force
+La chaleur de la réaction
+La pression du gaz
+Le volume du solide
+La surface du plan
+La densité du corps
+La viscosité du fluide
+La solubilité du sel
+La réactivité du métal
+La stabilité du noyau
+La radioactivité du déchet
+La pollution de l'air
+La contamination de l'eau
+La dégradation du sol
+La destruction de l'habitat
+La disparition de l'espèce
+L'extinction de la race
+L'invasion du nuisible
+La prolifération de l'algue
+L'infestation du parasite
+L'infection de la plaie
+La propagation du virus
+L'épidémie de la grippe
+La pandémie du fléau
+La mortalité de la maladie
+La natalité de la population
+La fertilité du couple
+La longévité de l'ancêtre
+La croissance de l'enfant
+Le développement du fœtus
+Le vieillissement de la cellule
+La mort de l'individu
+La vie de l'organisme
+La santé du patient
+La maladie du souffrant
+La guérison du convalescent
+Le traitement du docteur
+Le diagnostic de l'expert
+L'examen du labo
+La biopsie de la tumeur
+La chirurgie du bloc
+L'anesthésie de la salle
+La réanimation de l'urgence
+Le soin de l'infirmier
+La convalescence du repos
+La fin du supplice
